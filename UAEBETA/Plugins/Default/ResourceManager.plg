@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Resource Manager Plugin" author="Kyle Lane" version="1.0" date="2/15/14" mainlibrary="ResourceManager.dll">
+	<description>
+		This plug in imorts and exports Resource Manager files.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+	<PluginData name="Resource Manager" type="0x00000093">
+		<extension extension="urm" filter="Unity Resource Manager (*.urm)"/>
+	</PluginData>
+</Plugin>

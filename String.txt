@@ -1,0 +1,1296 @@
+STRING_COM_1	FF5E00	无效的字符串.			존재하지 않는 문자열을 참조하려고 한 경우
+STRING_COM_2	FFFFFF	确认	BusanBada	16	일반 알림 팝업창 타이틀
+STRING_COM_3	FFFFFF	확인			일반 확인 버튼 레이블
+STRING_COM_4	FFFFFF	취소			일반 취소 버튼 레이블
+STRING_COM_5	FFFFFF	선택			일반 선택 버튼 레이블
+STRING_COM_6	FFFFFF	추가			일반 추가 버튼 레이블
+STRING_COM_7	FFFF00	현재 화면을 {0} 파일로 저장했습니다.			화면 캡쳐
+STRING_COM_8	FFFFFF	채널 이동		14	채널 이동 콤보박스 제목
+STRING_COM_9	FFFFFF	채널 {0}		14	채널 이동 콤보박스 아이템
+STRING_COM_10	E3EF70	헨치 전투 정보			헨치창 전투 정보 타이틀
+STRING_COM_11	E3EF70	종족별 특성			헨치창 종족별 특성 타이틀
+STRING_COM_12	75777B	기본레벨			헨치창 기본레벨 레이블
+STRING_COM_13	75777B	성장가능레벨			헨치창 성장가능레벨 레이블
+STRING_COM_14	E3EF70	물리공격력			헨치 툴팁 물리공격력 문자열
+STRING_COM_15	E3EF70	마법공격력			헨치 툴팁 마법공격력 문자열
+STRING_COM_16	E3EF70	물리방어력			헨치 툴팁 물리방어력 문자열
+STRING_COM_17	E3EF70	마법방어력			헨치 툴팁 마법방어력 문자열
+STRING_COM_18	E3EF70	회피도			헨치 툴팁 회피도 문자열
+STRING_COM_19	E3EF70	공격속도			헨치 툴팁 공격속도 문자열
+STRING_COM_20	E3EF70	명중도			헨치 툴팁 명중도 문자열
+STRING_COM_21	E3EF70	치명타율			헨치 툴팁 치명타율 문자열 
+STRING_COM_22	FFFFFF	튼튼한			헨치 성격
+STRING_COM_23	FFFFFF	용감한			헨치 성격
+STRING_COM_24	FFFFFF	기운찬			헨치 성격
+STRING_COM_25	FFFFFF	재빠른			헨치 성격
+STRING_COM_26	FFFFFF	신중한			헨치 성격
+STRING_COM_27	FFFFFF	강인한			헨치 성격
+STRING_COM_28	FFFFFF	석화 상태의 헨치가 없습니다.			헨치 부활창 메시지
+STRING_COM_29	FFFFFF	헨치 부활 비용이 부족합니다.			헨치 부활창 메시지
+STRING_COM_30	FFFFFF	석화 상태의 모든 헨치의 부활을\n위해서는 {0} GP가\n소모됩니다.\n헨치를 부활하시겠습니까?			헨치 부활창 메시지
+STRING_COM_31	FFFFFF	석화상태의 모든 헨치가 회복되었습니다.			헨치 부활시 채팅창 메시지
+STRING_COM_32	FFFFFF	잘못된 입력입니다.			입력 수치가 이상한 경우
+STRING_COM_33	FF0000	클래스가 맞지 않습니다.			클래스가 맞지 않는 에러
+STRING_COM_34	FF0000	해당 헨치는 레벨 제한으로 소환하실수 없습니다.			헨치 착용레벨제한을 넘었다.
+STRING_COM_35	FF0000	현재 지역에서는 NPC를 통해서만 다른 지역으로 이동할 수 있습니다.			현재 지역에서는 NPC를 통해서만 다른 지역으로 이동할 수 있습니다.
+STRING_COM_36	0F0F0F	재료 아이템이 부족합니다.			아이템 제작 재료 아이템 부족
+STRING_COM_37	0F0F0F	가방이 가득 찼습니다.			아이템 제작 인벤토리 공간 부족
+STRING_COM_38	FFFFFF	{0}일			날짜 표시
+STRING_COM_39	FFFFFF	{0}시간			시간 표시
+STRING_COM_40	FFFFFF	{0}분			분 표시
+STRING_COM_41	FFFFFF	{0}초			초 표시
+STRING_COM_42	FFFFFF	부활({0})			초 표시
+STRING_COM_43	FFFFFF	랜덤			아이템 툴팁 - 헨치 성격 랜덤
+STRING_COM_44	FFFFFF	제작도면아이템\n요구레벨			아이템 툴팁 - 제작 도면 설명
+STRING_COM_45	FFFFFF	헨치 Rank			아이템 툴팁 - 헨치 등급
+STRING_COM_46	FFFFFF	성격			아이템 툴팁 - 헨치 성격
+STRING_COM_47	FFFFFF	소환가능 밸러 레벨			아이템 툴팁 - 소환가능 밸러 레벨
+STRING_COM_48	FFFFFF	헨치장착아이템\n헨치요구레벨			아이템 툴팁 - 헨치장착 아이템 설명
+STRING_COM_49	FFFFFF	판매가격			아이템 툴팁 - 판매가격
+STRING_COM_50	FFFFFF	기간 만료일			아이템 툴팁 - 기간 만료일
+STRING_COM_51	FFFFFF	물리 공격력			아이템 툴팁 - 무기 물리 공격력
+STRING_COM_52	FFFFFF	마법 공격력			아이템 툴팁 - 무기 마법 공격력
+STRING_COM_53	FFFFFF	물리 방어력			아이템 툴팁 - 갑옷 물리 방어력
+STRING_COM_54	FFFFFF	마법 방어력			아이템 툴팁 - 갑옷 마법 방어력
+STRING_COM_55	FFFFFF	[FFFFFF]일반[-] 등급\n			아이템 툴팁 - 일반 등급
+STRING_COM_56	FFFFFF	[95B3D7]고급[-] 등급\n			아이템 툴팁 - 고급 등급
+STRING_COM_57	FFFFFF	[92D050]희귀[-] 등급\n			아이템 툴팁 - 희귀 등급
+STRING_COM_58	FFFFFF	[FFFF00]영웅[-] 등급\n			아이템 툴팁 - 영웅 등급
+STRING_COM_59	FFFFFF	[FF8C00]전설[-] 등급\n			아이템 툴팁 - 전설 등급
+STRING_COM_60	FFFFFF	요구레벨			아이템 툴팁 - 요구레벨
+STRING_COM_61	FFFFFF	재사용시간			아이템 툴팁 - 재사용시간
+STRING_COM_62	FFFFFF	소모성아이템			아이템 툴팁 - 소모성아이템
+STRING_COM_63	FFFFFF	기타아이템			아이템 툴팁 - 기타아이템 
+STRING_COM_64	FFFFFF	믹스 옵션 아이템			아이템 툴팁 - 믹스 옵션 아이템
+STRING_COM_65	FFFFFF	아이템강화 옵션 아이템			아이템 툴팁 - 아이템강화 옵션 아이템
+STRING_COM_66	FFFFFF	헨치강화 옵션 아이템			아이템 툴팁 - 헨치강화 옵션 아이템
+STRING_COM_67	FFFFFF	현재 레벨			아이템 툴팁 - 헨치 현재 레벨
+STRING_COM_68	FFFFFF	성장 가능 레벨			아이템 툴팁 - 헨치 성장 가능 레벨
+STRING_COM_69	FFFFFF	근거리 공격형			아이템 툴팁 - 헨치 근거리 공격형
+STRING_COM_70	FFFFFF	원거리 공격형			아이템 툴팁 - 헨치 원거리 공격형
+STRING_COM_71	FFFFFF	물리			아이템 툴팁 - 헨치 공격타입 물리
+STRING_COM_72	FFFFFF	마법			아이템 툴팁 - 헨치 공격타입 마법
+STRING_COM_73	FFFFFF	휴먼			종족 - 휴먼
+STRING_COM_74	FFFFFF	드래곤			종족 - 드래곤
+STRING_COM_75	FFFFFF	데빌			종족 - 데빌
+STRING_COM_76	FFFFFF	비스트			종족 - 비스트
+STRING_COM_77	FFFFFF	엘레멘탈			종족 - 엘레멘탈
+STRING_COM_78	FFFFFF	머신			종족 - 머신
+STRING_COM_79	FFFFFF	아쿠아			종족 - 아쿠아
+STRING_COM_80	FFFFFF	드래곤 종족			드래곤 종족
+STRING_COM_81	FFFFFF	데빌 종족			데빌 종족
+STRING_COM_82	FFFFFF	비스트 종족			비스트 종족
+STRING_COM_83	FFFFFF	엘레멘탈 종족			엘레멘탈 종족
+STRING_COM_84	FFFFFF	머신 종족			머신 종족
+STRING_COM_85	FFFFFF	아쿠아 종족			아쿠아 종족
+STRING_COM_86	FFFFFF	착용시 귀속			아이템 속성 - 착용시 귀속
+STRING_COM_87	FFFFFF	획득시 귀속			아이템 속성 - 획득시 귀속
+STRING_COM_88	FFFFFF	판매 불가			아이템 속성 - 판매 불가
+STRING_COM_89	FFFFFF	거래 불가			아이템 속성 - 거래 불가
+STRING_COM_90	FFFFFF	보관 불가			아이템 속성 - 보관 불가
+STRING_COM_91	FFFFFF	파괴 불가			아이템 속성 - 파괴 불가
+STRING_COM_92	FFFFFF	강화 불가			아이템 속성 - 강화 불가
+STRING_COM_93	FFFFFF	판매중			 아이템 속성 - 판매중
+STRING_COM_94	FFFFFF	공통			아이템 툴팁 - 아이템 요구 직업 타입 0번
+STRING_COM_95	FFFFFF	디트			디트 이름
+STRING_COM_96	FFFFFF	도로시			도로시 이름
+STRING_COM_97	FFFFFF	레이			레이 이름
+STRING_COM_98	FFFFFF	포이			포이 이름
+STRING_COM_99	FFFFFF	모든 밸러			아이템 툴팁 - 아이템 요구 직업 타입 모든 밸러
+STRING_COM_100	FFFFFF	단검			무기 종류 - 단검
+STRING_COM_101	FFFFFF	한손 지팡이			무기 종류 - 한손 지팡이
+STRING_COM_102	FFFFFF	한손 둔기			무기 종류 - 한손 둔기
+STRING_COM_103	FFFFFF	한손 총			무기 종류 - 한손 총
+STRING_COM_104	FFFFFF	투구			방어구 종류 - 투구
+STRING_COM_105	FFFFFF	상의			방어구 종류 - 상의
+STRING_COM_106	FFFFFF	하의			방어구 종류 - 하의
+STRING_COM_107	FFFFFF	장갑			방어구 종류 - 장갑
+STRING_COM_108	FFFFFF	신발			방어구 종류 - 신발
+STRING_COM_109	FFFFFF	망토			방어구 종류 - 망토
+STRING_COM_110	FFFFFF	목걸이			방어구 종류 - 목걸이
+STRING_COM_111	FFFFFF	반지			 방어구 종류 - 반지
+STRING_COM_112	FFFFFF	힘 {0} 증가			아이템 효과 - 힘 증가
+STRING_COM_113	FFFFFF	민첩 {0} 증가			아이템 효과 - 민첩 증가
+STRING_COM_114	FFFFFF	체력 {0} 증가			아이템 효과 - 체력 증가
+STRING_COM_115	FFFFFF	지능 {0} 증가			아이템 효과 - 지능 증가
+STRING_COM_116	FFFFFF	정확 {0} 증가			아이템 효과 - 정확 증가
+STRING_COM_117	FFFFFF	지혜 {0}증가			아이템 효과 - 지혜 증가
+STRING_COM_118	FFFFFF	최대 HP {0} 증가			아이템 효과 - 최대 HP 증가
+STRING_COM_119	FFFFFF	최대 MP {0} 증가			아이템 효과 - 최대 MP 증가
+STRING_COM_120	FFFFFF	HP {0}% 증가			아이템 효과 -  HP % 증가
+STRING_COM_121	FFFFFF	MP {0}% 증가			아이템 효과 -  MP % 증가
+STRING_COM_122	FFFFFF	물리 공격력 {0} 증가			아이템 효과 - 물리 공격력 증가
+STRING_COM_123	FFFFFF	물리 공격력 {0}% 증가			아이템 효과 - 물리 공격력 % 증가
+STRING_COM_124	FFFFFF	마법 공격력 {0} 증가			아이템 효과 - 마법 공격력 증가
+STRING_COM_125	FFFFFF	마법 공격력 {0}% 증가			아이템 효과 - 마법 공격력 % 증가
+STRING_COM_126	FFFFFF	물리 방어력 {0} 증가			아이템 효과 - 물리 방어력 증가
+STRING_COM_127	FFFFFF	물리 방어력 {0}% 증가			아이템 효과 - 물리 방어력 % 증가
+STRING_COM_128	FFFFFF	마법 방어력 {0} 증가			아이템 효과 - 마법 방어력 증가
+STRING_COM_129	FFFFFF	마법 방어력 {0}% 증가			아이템 효과 - 마법 방어력 % 증가
+STRING_COM_130	FFFFFF	명중도 {0}% 증가			아이템 효과 - 명중도 증가
+STRING_COM_131	FFFFFF	치명타율 {0}% 증가			아이템 효과 - 치명타율 증가
+STRING_COM_132	FFFFFF	회피도 {0}% 증가			아이템 효과 - 회피도 증가
+STRING_COM_133	FFFFFF	이동속도 {0} 증가			아이템 효과 - 이동속도 증가
+STRING_COM_134	FFFFFF	이동속도 {0}% 증가			아이템 효과 - 이동속도 % 증가
+STRING_COM_135	FFFFFF	공격속도 {0} 증가			아이템 효과 - 공격속도 증가
+STRING_COM_136	FFFFFF	공격속도 {0}% 증가			아이템 효과 - 공격속도 % 증가
+STRING_COM_137	FFFFFF	HP의 자연 회복률 {0}% 증가			아이템 효과 - 체력 회복 % 증가 자연회복율
+STRING_COM_138	FFFFFF	MP의 자연 회복률 {0}% 증가			아이템 효과 - MP 회복 % 증가 자연 회복율
+STRING_COM_139	FFFFFF	치명타 데미지 {0}% 증가			아이템 효과 - 크리티컬 데미지 % 증가
+STRING_COM_140	FFFFFF	{0} 소환			아이템 효과 - 소환
+STRING_COM_141	FFFFFF	HP {0} 회복			아이템 효과 - HP 회복
+STRING_COM_142	FFFFFF	MP {0} 회복			아이템 효과 - MP 회복
+STRING_COM_143	FFFFFF	{0}시간 {1}분 {2}초			남은 시간 - 시분초
+STRING_COM_144	FFFFFF	{0}시간{1}분			남은 시간 - 시간분
+STRING_COM_145	FFFFFF	{0}분 {1}초			남은 시간 - 분초
+STRING_COM_146	FF0000	채널 리스트 받기를 실패 했습니다.			채널 리스트 받기를 실패 했습니다.
+STRING_COM_147	FF0000	이미 같은 채널에 있습니다.			이미 같은 채널에 있습니다.
+STRING_COM_148	FF0000	창고 이용중엔 채널이동을 할 수 없습니다.			창고 이용중엔 채널이동을 할 수 없습니다.
+STRING_COM_149	FFFFFF	*뿅뿅*			금지어 대체 단어
+STRING_COM_150	0B141E	헨치 정보	BusanBada	18	헨치창 메인 타이틀
+STRING_COM_151	FFFFFF	예			예
+STRING_COM_152	FFFFFF	아니오			아니오
+STRING_COM_153	FFFFFF	초			오토방지창에서 초(Second) 문자
+STRING_COM_154	FFFFFF	오토방지	BusanBada	16	오토방지창 팝업 타이틀
+STRING_COM_155	FFFFFF	커뮤니티	BusanBada	16	친구/길드 커뮤니티 패널 타이틀
+STRING_COM_156	FFFFFF	수량 선택	BusanBada	16	수량선택 팝업 타이틀
+STRING_COM_157	F6E0AE	수량을 입력하세요.	BusanBada	20	수량선택 팝업 메시지
+STRING_COM_158	FFFFFF	기본 조작법	BusanBada	20	도움말 버튼 1번 레이블
+STRING_COM_159	FFFFFF	헨치활용	BusanBada	20	도움말 버튼 2번 레이블
+STRING_COM_160	FFFFFF	스킬	BusanBada	20	도움말 버튼 3번 레이블
+STRING_COM_161	FFFFFF	믹스	BusanBada	20	도움말 버튼 4번 레이블
+STRING_COM_162	FFFFFF	NULL			도움말 버튼 5번 레이블
+STRING_COM_163	FFFFFF	NULL			도움말 버튼 6번 레이블
+STRING_COM_164	FFFFFF	NULL			도움말 버튼 7번 레이블
+STRING_COM_165	FFFFFF	NULL			도움말 버튼 8번 레이블
+STRING_COM_166	FFFFFF	NULL			도움말 버튼 9번 레이블
+STRING_COM_167	FFFFFF	NULL			도움말 버튼 10번 레이블
+STRING_COM_168	FFFFFF	NULL			도움말 버튼 11번 레이블
+STRING_COM_169	FFFFFF	NULL			도움말 버튼 12번 레이블
+STRING_COM_170	FFFFFF	NULL			도움말 버튼 13번 레이블
+STRING_COM_171	FFFFFF	헨치 부활	BusanBada	16	헨치 부활창 타이틀
+STRING_COM_172	0A0A0B	밸러정보	BusanBada	18	밸러 정보창 - 타이틀
+STRING_COM_173	FFFFFF	장비			밸러 정보창 - 장비
+STRING_COM_174	076dd6	밸러 능력치	BusanBada	14	밸러 정보창 - 밸러 능력치
+STRING_COM_175	076dd6	밸러 전투 정보	BusanBada	14	밸러 정보창 - 밸러 전투 정보
+STRING_COM_176	076dd6	종족별 특성	BusanBada	14	밸러 정보창 - 종족별 특성 (미사용)
+STRING_COM_177	CFCFCF	힘		12	밸러 정보창 - 힘
+STRING_COM_178	CFCFCF	지능		12	밸러 정보창 - 지능
+STRING_COM_179	CFCFCF	정확		12	밸러 정보창 - 정확
+STRING_COM_180	CFCFCF	민첩		12	밸러 정보창 - 민첩
+STRING_COM_181	CFCFCF	체력		12	밸러 정보창 - 체력
+STRING_COM_182	CFCFCF	지혜		12	밸러 정보창 - 지혜
+STRING_COM_183	CFCFCF	물리공격력		12	밸러 정보창 - 물리공격력
+STRING_COM_184	CFCFCF	마법공격력		12	밸러 정보창 - 마법공격력
+STRING_COM_185	CFCFCF	물리방어력		12	밸러 정보창 - 물리방어력
+STRING_COM_186	CFCFCF	마법방어력		12	밸러 정보창 - 마법방어력
+STRING_COM_187	CFCFCF	명중도		12	밸러 정보창 - 명중도
+STRING_COM_188	CFCFCF	치명타율		12	밸러 정보창 - 치명타율
+STRING_COM_189	CFCFCF	공격속도		12	밸러 정보창 - 공격속도
+STRING_COM_190	CFCFCF	회피도		12	밸러 정보창 - 회피도
+STRING_COM_191	FFFFFF	필드맵	BusanBada	18	월드맵 창 타이틀
+STRING_COM_192	FFFFFF	제한시간 내에 아래의 문제를 풀고 정답을\n입력하신 후에 확인 버튼을 누르세요.			오토방지창 설명
+STRING_COM_193	F2EE74	남은시간			오토방지창 남은시간
+STRING_COM_194	F2EE74	문제 :			오토방지창 문제
+STRING_COM_195	F2EE74	정답입력			오토방지창 정답입력
+STRING_COM_196	FFFFFF	부적			방어구 종류 - 부적
+STRING_COM_197	FFFF00	부적 슬롯이 열렸습니다.			밸러 부적 슬롯이 열린 경우 팝업 메시지
+STRING_COM_198	FFFF00	이미 부적 슬롯이 열려있습니다.			이미 부적 슬롯이 열려있습니다.
+STRING_COM_199	FFE400	헨치 이름 변경	BusanBada	18	헨치 이름 변경창 타이틀
+STRING_COM_200	FFFFFF	변경할 이름을 입력하세요.			헨치 이름 변경창 메인 메시지
+STRING_COM_201	FFFFFF	(헨치의 레벨에 따라 비용이 소비됩니다)			헨치 이름 변경창 서브 메시지
+STRING_COM_202	CFCFCF	변경할 이름		13	헨치 이름 변경창 레이블 - 변경할 이름
+STRING_COM_203	CFCFCF	변 경 비 용		13	헨치 이름 변경창 레이블 - 변경비용
+STRING_COM_204	FFFFFF	변경하기			헨치 이름 변경창 - 변경하기 버튼
+STRING_COM_205	FFE400	변경완료	BusanBada	16	헨치 이름 변경 결과 팝업 타이틀
+STRING_COM_206	FFFFFF	헨치의 이름이 변경되었습니다.		12	헨치 이름 변경 결과 팝업 성공 메시지
+STRING_COM_207	FFFFFF	GP가 부족해서 이름을 변경할 수 없습니다.		12	헨치 이름 변경 결과 팝업 GP 부족 메시지
+STRING_COM_208	FFFFFF	허용되지 않는 이름입니다. 다른\n이름으로 입력해주세요.		12	헨치 이름 변경 결과 팝업 잘못된 이름 메시지
+STRING_COM_209	FFFFFF	이름변경 실패		12	헨치 이름 변경 실패 메시지
+STRING_COM_210	EDD200	프르마이 결전장			프르마이 결전장 (팀 대전)
+STRING_COM_211	FFFFFF	포티아			팀이름1
+STRING_COM_212	FFFFFF	네로			팀이름2
+STRING_COM_213	FFFFFF	아모스			팀이름3
+STRING_COM_214	FFFFFF	아네모스			팀이름4
+STRING_COM_215	FFDC73	닫기			닫기 버튼 텍스트
+STRING_COM_216	FFE400	프르마이 결전장 경기시작 5분전입니다! 참가자는 마지리타로 와서 입장을 준비해주십시오!			경기시작 5분전 알림
+STRING_COM_217	FFE400	【!START!】 프르마이 결전 경기 개시 【!START!】			경기시작 알림
+STRING_COM_218	FFE400	프르마이 결전장 참가자는 마지리타 왕궁앞에 있는 PvP바우와우를 통해 입장해주십시오!			경기참가자 입장 안내
+STRING_COM_219	FFFFFF	게임을 종료하시겠습니까?			게임종료 물음창 메시지
+STRING_COM_220	FFFFFF	소환된 헨치들의 maxHP {0} 증가			아이템 효과 - 소환된 헨치들의 최대 HP 증가 = bhench_maxhp
+STRING_COM_221	FFFFFF	소환된 헨치들의 maxMP {0} 증가			아이템 효과 - 소환된 헨치들의 최대 MP 증가 = bhench_maxmp
+STRING_COM_222	FFFFFF	소환된 헨치들의 maxHP{0}% 증가			아이템 효과 - 소환된 헨치들의 최대 HP 증가 (비율) = bhench_maxhprate
+STRING_COM_223	FFFFFF	소환된 헨치들의 maxMP{0}% 증가			아이템 효과 - 소환된 헨치들의 최대 MP 증가 (비율) = bhench_maxmprate
+STRING_COM_224	FFFFFF	소환된 헨치들의 물리공격력 {0} 증가			아이템 효과 - 소환된 헨치들의 물리공격력 증가 = bhench_atk
+STRING_COM_225	FFFFFF	소환된 헨치들의 물리공격력 {0}% 증가			아이템 효과 - 소환된 헨치들의 물리공격력 증가 (비율) = bhench_atkrate
+STRING_COM_226	FFFFFF	소환된 헨치들의 마법공격력 {0} 증가			아이템 효과 - 소환된 헨치들의 마법공격력 증가 = bhench_matk
+STRING_COM_227	FFFFFF	소환된 헨치들의 마법공격력 {0}% 증가			아이템 효과 - 소환된 헨치들의 마법공격력 증가 (비율) = bhench_matkrate
+STRING_COM_228	FFFFFF	소환된 헨치들의 물리방어력 {0} 증가			아이템 효과 - 소환된 헨치들의 물리방어력 증가 = bhench_def
+STRING_COM_229	FFFFFF	소환된 헨치들의 물리방어력 {0}% 증가			아이템 효과 - 소환된 헨치들의 물리방어력 증가 (비율) = bhench_defrate
+STRING_COM_230	FFFFFF	소환된 헨치들의 마법방어력 {0} 증가			아이템 효과 - 소환된 헨치들의 마법방어력 증가 = bhench_mdef
+STRING_COM_231	FFFFFF	소환된 헨치들의 마법방어력 {0}% 증가			아이템 효과 - 소환된 헨치들의 마법방어력 증가 (비율) = bhench_mdefrate
+STRING_COM_232	FFFFFF	소환된 헨치들의 명중도 {0} 증가			아이템 효과 - 소환된 헨치들의 명중도 증가 = bhench_hit
+STRING_COM_233	FFFFFF	소환된 헨치들의 명중도 {0}% 증가			아이템 효과 - 소환된 헨치들의 명중도 증가 (비율) = bhench_hitrate
+STRING_COM_234	FFFFFF	소환된 헨치들의 크리티컬율 + {0}%			아이템 효과 - 소환된 헨치들의 크리티컬율 증가 (수치) = bhench_critical_add
+STRING_COM_235	FFFFFF	소환된 헨치들의 회피도 {0} 증가			아이템 효과 - 소환된 헨치들의 회피도 증가 = bhench_eva
+STRING_COM_236	FFFFFF	소환된 헨치들의 회피도 {0}% 증가			아이템 효과 - 소환된 헨치들의 회피도 증가 (비율) = bhench_eva
+STRING_COM_237	FFFFFF	소환된 헨치들의 공격속도 {0}% 향상			아이템 효과 - 소환된 헨치들의 공격속도가 빨라짐 (기존 공격속도 대비 비율) = bhench_atkspeedrate
+STRING_COM_238	CFCFCF	피해방어율		12	밸러 정보창 - 물리 피해방어율
+STRING_COM_239	CFCFCF	피해방어율		12	밸러 정보창 - 마법 피해방어율
+STRING_COM_240	FFFFFF	NULL		13	주인공 퀵슬롯 경험치 % 숫자 폰트 (문자열 미사용)
+STRING_COM_241	FFFFFF	NULL		12	주인공 퀵슬롯 스킬 세트 번호 폰트 (문자열 미사용)
+STRING_COM_242	FFFFFF	NULL		14	주인공 퀵슬롯 아이템 개수 폰트 (문자열 미사용)
+STRING_COM_243	FFFFFF	1			주인공 퀵슬롯 1번 제목
+STRING_COM_244	FFFFFF	2			주인공 퀵슬롯 2번 제목
+STRING_COM_245	FFFFFF	3			주인공 퀵슬롯 3번 제목
+STRING_COM_246	FFFFFF	4			주인공 퀵슬롯 4번 제목
+STRING_COM_247	FFFFFF	5			주인공 퀵슬롯 5번 제목
+STRING_COM_248	FFFFFF	6			주인공 퀵슬롯 6번 제목
+STRING_COM_249	FFFFFF	7			주인공 퀵슬롯 7번 제목
+STRING_COM_250	FFFFFF	8			주인공 퀵슬롯 8번 제목
+STRING_COM_251	FFFFFF	9			주인공 퀵슬롯 9번 제목
+STRING_COM_252	FFFFFF	0			주인공 퀵슬롯 10번 제목
+STRING_COM_253	FFFFFF	NULL			주인공 이름 폰트 (문자열 미사용)
+STRING_COM_254	FFFFFF	NULL			주인공 레벨 숫자 폰트 (문자열 미사용)
+STRING_COM_255	FFFFFF	NULL			주인공 HP 숫자 폰트 (문자열 미사용)
+STRING_COM_256	FFFFFF	NULL			주인공 MP 숫자 폰트 (문자열 미사용)
+STRING_COM_257	FFFFFF	NULL			주인공/내 헨치 버프 남은 시간 폰트 (문자열 미사용)
+STRING_COM_258	FFFFFF	NULL			헨치 레벨 폰트 (문자열 미사용)
+STRING_COM_259	FFFFFF	R			헨치 퀵슬롯 단축키 1번 레이블
+STRING_COM_260	FFFFFF	T			헨치 퀵슬롯 단축키 2번 레이블
+STRING_COM_261	FFFFFF	NULL		12	미니맵 타이틀 폰트 (문자열 미사용)
+STRING_COM_262	FFFFFF	맵에 있는 아이콘을 더블클릭하면 해당 위치로 이동합니다.			월드맵 설명 문구
+STRING_COM_263	858a94	거리:{0,6:F1}m		12	타겟창 거리 문자열
+STRING_COM_264	76E509	NULL		14	타겟창 타겟 이름 폰트 (문자열 미사용)
+STRING_COM_265	FFFFFF	NULL		13	타겟창 타겟 레벨 폰트 (문자열 미사용)
+STRING_COM_266	76E509	NULL		13	헨치창 헨치 성격 폰트 (문자열 미사용)
+STRING_COM_267	259CCE	NULL	BusanBada	20	헨치창 헨치 실제 이름 폰트 (문자열 미사용)
+STRING_COM_268	215193	Hench1	BusanBada	13	헨치창 Hench1 레이블
+STRING_COM_269	215193	Hench2	BusanBada	13	헨치창 Hench2 레이블
+STRING_COM_270	215193	Hench3	BusanBada	13	헨치창 Hench3 레이블
+STRING_COM_271	265A97	헨치 기본정보	BusanBada	15	헨치창 헨치 기본정보 레이블
+STRING_COM_272	265A97	전투능력치	BusanBada	15	헨치창 전투능력치 레이블
+STRING_COM_273	265A97	종족상성	BusanBada	15	헨치창 종족상성 레이블
+STRING_COM_274	CFCFCF	현재레벨		13	헨치창 현재레벨 레이블
+STRING_COM_275	CFCFCF	종            족		13	헨치창 종족 레이블
+STRING_COM_276	CFCFCF	헨치별명		13	헨치창 헨치별명 레이블
+STRING_COM_277	CFCFCF	EXP		13	헨치창 EXP 레이블
+STRING_COM_278	CFCFCF	물리공격력		13	헨치창 물리공격력 레이블
+STRING_COM_279	CFCFCF	마법공격력		13	헨치창 마법공격력 레이블
+STRING_COM_280	CFCFCF	물리방어력		13	헨치창 물리방어력 레이블
+STRING_COM_281	CFCFCF	마법방어력		13	헨치창 마법방어력 레이블
+STRING_COM_282	CFCFCF	명   중   도		13	헨치창 명중도 레이블
+STRING_COM_283	CFCFCF	공 격 속 도		13	헨치창 공격속도 레이블
+STRING_COM_284	CFCFCF	회   피   도		13	헨치창 회피도 레이블
+STRING_COM_285	CFCFCF	크리티컬률		13	헨치창 크리티컬률 레이블
+STRING_COM_286	CFCFCF	최대HP		13	헨치창 최대HP 레이블
+STRING_COM_287	CFCFCF	최대MP		13	헨치창 최대MP 레이블
+STRING_COM_288	CFCFCF	피해방어율		13	헨치창 물리 피해방어율 레이블
+STRING_COM_289	CFCFCF	피해방어율		13	헨치창 마법 피해방어율 레이블
+STRING_COM_290	CFCFCF	드   래   곤		13	헨치창 종족 드래곤 레이블
+STRING_COM_291	CFCFCF	엘 레 멘 탈		13	헨치창 종족 엘레멘탈 레이블
+STRING_COM_292	CFCFCF	머         신		13	헨치창 종족 머신 레이블
+STRING_COM_293	CFCFCF	데         빌		13	헨치창 종족 데빌 레이블
+STRING_COM_294	CFCFCF	비   스   트		13	헨치창 종족 비스트 레이블
+STRING_COM_295	CFCFCF	아   쿠   아		13	헨치창 종족 아쿠아 레이블
+STRING_COM_296	FFFFFF	NULL	Typo_FactoryB	13	헨치창 능력 수치 폰트 (문자열 미사용)
+STRING_COM_297	FFFF00	보유스킬		16	헨치 코어 아이템 툴팁 - 타이틀
+STRING_COM_298	76E509	NULL	BusanBada	13	헨치 코어 아이템 툴팁 - 스킬 이름 폰트 (문자열 미사용)
+STRING_COM_299	FFFFFF	스킬레벨 {0}		12	헨치 코어 아이템 툴팁 - 스킬 레벨 레이블
+STRING_LOGIN_1	FFFFFF	아이디			로그인 화면 레이블
+STRING_LOGIN_2	FFFFFF	비밀번호			로그인 화면 레이블
+STRING_LOGIN_3	FFFFFF	계정명 저장하기			로그인 화면 레이블
+STRING_LOGIN_4	FFFFFF	게임종료			로그인 화면 레이블
+STRING_LOGIN_5	FFFFFF	로그인			로그인 화면 레이블
+STRING_LOGIN_6	FFFFFF	서버선택			서버선택 화면 레이블
+STRING_LOGIN_7	FFFFFF	입장하실 서버를 선택하고 더블클릭하세요.		16	서버선택 화면 레이블
+STRING_LOGIN_8	FFFFFF	로그인 화면		16	서버선택 화면 레이블
+STRING_LOGIN_9	FFFFFF	입장		16	서버선택 화면 레이블
+STRING_LOGIN_10	FFFFFF	새로고침		16	서버선택 화면 레이블
+STRING_LOGIN_11	FFFFFF	서버 점검			서버선택  화면-서버상태 레이블
+STRING_LOGIN_12	FFFFFF	서버 혼잡			서버선택  화면-서버상태 레이블
+STRING_LOGIN_13	FFFFFF	서버 원활			서버선택  화면-서버상태 레이블
+STRING_LOGIN_14	FFFFFF	서버 포화			서버선택  화면-서버상태 레이블
+STRING_LOGIN_15	FFFFFF	관리자 권한으로 실행해주세요.			게임가드-관리자 권한 에러
+STRING_LOGIN_16	FAED7D	서버 연결에 실패 했습니다.			서버연결 실패(팝업)
+STRING_LOGIN_17	FFFFFF	서버와의 연결이 종료 되었습니다.			서버 연결 종료(팝업)
+STRING_LOGIN_18	FFFFFF	청소년보호법 대상자\n(16세미만 청소년)로\n 서버와 접속이 종료 됩니다.			셧다운 시 메시지(팝업)
+STRING_LOGIN_19	FFFFFF	클라이언트 버전이 낮습니다.\n최신버전으로\n다시 받아주시기 바랍니다.			클라버전 에러(팝업)
+STRING_LOGIN_20	FFFFFF	서버 점검중입니다.\n점검이 끝난후\n접속을 해주시기 바랍니다.			서버 점검 에러(팝업)
+STRING_LOGIN_21	FFFFFF	이용정지된 아이디입니다.			블럭 아이디입니다.
+STRING_LOGIN_22	FFFFFF	잘못된 입력입니다.			잘못된 입력입니다.
+STRING_LOGIN_23	FFFFFF	패스워드가 틀렸습니다.			패스워드가 틀렸습니다.
+STRING_LOGIN_24	FFFFFF	다시 로그인 해주십시오.			다시 로그인 해주십시오.
+STRING_LOGIN_25	FFFFFF	존재하지 않는 아이디 입니다.			존재하지 않는 아이디 입니다.
+STRING_LOGIN_26	FFFFFF	테스트 유저가 아닙니다.			테스트 유저가 아닙니다.
+STRING_LOGIN_27	00FF00	NULL	BusanBada	30	서버선택 화면-서버 이름 폰트 (문자열 미사용)
+STRING_LOGIN_28	FFFFFF	보유 캐릭터: {0}개		15	서버선택 화면-보유 캐릭터 개수 문자열
+STRING_LOBBY_1	FFFFFF	캐릭터 생성 가능			로비 화면 레이블
+STRING_LOBBY_2	FFFFFF	캐릭터 정보			로비 화면 레이블
+STRING_LOBBY_3	FFFFFF	헨치 정보			로비 화면 레이블
+STRING_LOBBY_4	FFFFFF	뒤로			로비 화면/캐릭터 생성 화면 레이블
+STRING_LOBBY_5	FFFFFF	캐릭터 생성			로비 화면 레이블
+STRING_LOBBY_6	FFFFFF	게임시작			로비 화면 레이블
+STRING_LOBBY_7	FFFFFF	캐릭터 삭제			로비 화면 레이블
+STRING_LOBBY_8	FAED7D	<{0}>을(를)\n삭제하시겠습니까?			로비에서 캐릭터 삭제시 질문 팝업창 레이블
+STRING_LOBBY_9	00D8FF	캐릭터 선택			캐릭터 생성 화면 레이블
+STRING_LOBBY_10	FFFFFF	생성			캐릭터 생성 화면 레이블
+STRING_LOBBY_11	00D8FF	캐릭터 이름			캐릭터 생성 화면 레이블
+STRING_LOBBY_12	00D8FF	얼굴타입			캐릭터 생성 화면 레이블
+STRING_LOBBY_13	00D8FF	머리모양			캐릭터 생성 화면 레이블
+STRING_LOBBY_14	00D8FF	머리색상			캐릭터 생성 화면 레이블
+STRING_LOBBY_15	00D8FF	눈모양			캐릭터 생성 화면 레이블
+STRING_LOBBY_16	00D8FF	눈동자색상			캐릭터 생성 화면 레이블
+STRING_LOBBY_17	FAED7D	한글과 영문만 사용할 수 있습니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_18	FAED7D	금지어가 포함된 이름입니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_19	FAED7D	사용할 수 없는 이름입니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_20	FAED7D	해당 이름은 이미 존재하여 \n사용할 수 없습니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_21	FAED7D	캐릭터 생성 실패			캐릭터 생성 에러(팝업)
+STRING_LOBBY_22	FAED7D	초기 캐릭터 \n생성 테이블이 없습니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_23	FAED7D	해당 슬롯은 이미 채워져있습니다.			캐릭터 생성 에러(팝업)
+STRING_LOBBY_24	FAED7D	더이상 캐릭터를 생성할 수 없습니다.\n최대 6명까지 가능합니다.			캐릭터 최대 생성 개수 초과(팝업)
+STRING_LOBBY_25	FAED7D	계정을 찾을수 없습니다.			계정을 찾을수가 없다.(팝업)
+STRING_LOBBY_26	FAED7D	로비 슬롯 값이 초과 되었습니다.			로비 슬롯 값이 오버 값이다.(팝업)
+STRING_LOBBY_27	FAED7D	캐릭터를 찾을수 없습니다.			캐릭터를 찾을수 없다.(팝업)
+STRING_LOBBY_28	FAED7D	캐릭터 로딩 실패했습니다.			캐릭터 로딩 실패 .(팝업)
+STRING_LOBBY_29	FAED7D	길드 해체 후 \n삭제 할 수 있습니다.			길드원이 있는 길드마스터 캐릭터 삭제 시도(팝업)
+STRING_LOBBY_30	FAED7D	잠시후 다시 시도 해주세요.			캐릭터 삭제 재시도 요청 메시지(팝업)
+STRING_LOBBY_31	FAED7D	서버에 요청중입니다.\n잠시만 기다려주세요.			게임시작 버튼 누르면 뜨는 팝업 메시지
+STRING_LOBBY_32	FFFFFF	생성하시겠습니까?			캐릭터 생성화면에서 확인 버튼 눌렀을 때 팝업 메시지
+STRING_LOBBY_33	FFFFFF	취소하시겠습니까?			캐릭터 생성화면에서 뒤로가기 버튼 눌렀을 때 팝업 메시지
+STRING_LOBBY_34	FFFFFF	로비			타이틀 레이블
+STRING_LOBBY_35	FFFFFF	왼쪽의 캐릭터 슬롯을 더블클릭하면 게임에 입장하거나 새로운 캐릭터를 생성할 수 있습니다.		14	타이틀 밑에 있는 설명문
+STRING_LOBBY_36	FFFFFF	Lv. {0}			캐릭터 슬롯 레벨 레이블
+STRING_LOBBY_37	76E509	NULL	BusanBada	16	캐릭터 슬롯 이름 폰트 (문자열 미사용)
+STRING_LOBBY_38	76E509	NULL	BusanBada	16	캐릭터 정보창 밸러 이름 폰트 (문자열 미사용)
+STRING_LOBBY_39	FFFFFF	Lv. {0}			캐릭터 정보창 밸러 레벨 레이블
+STRING_LOBBY_40	265A97	최종 접속일자: {0}년 {1}월 {2}일 {3}:{4}			캐릭터 정보창 최종 접속일자 레이블
+STRING_LOBBY_41	CFCFCF	Lv. {0}			캐릭터 정보창 헨치 레벨 레이블
+STRING_LOBBY_42	CFCFCF	NULL			캐릭터 정보창 헨치 이름 폰트 (문자열 미사용)
+STRING_LOBBY_43	FFFFFF	생성하기			캐릭터 선택 화면 생성하기 버튼 레이블
+STRING_LOBBY_44	76E509	NULL	BusanBada	36	캐릭터 선택 화면 - 밸러 이름 폰트 (문자열 미사용)
+STRING_LOBBY_45	5586EB	주무기: 단검\n공격형태: 근접공격 (물리데미지)			캐릭터 선택 화면 - 디트 공격 타입 문자열
+STRING_LOBBY_46	5586EB	주무기: 마법지팡이\n공격형태: 원거리공격 (마법데미지)			캐릭터 선택 화면 - 도로시 공격 타입 문자열
+STRING_LOBBY_47	5586EB	주무기: 망치\n공격형태: 근접공격 (물리데미지)			캐릭터 선택 화면 - 레이 공격 타입 문자열
+STRING_LOBBY_48	5586EB	주무기: 총\n공격형태: 원거리공격 (마법데미지)			캐릭터 선택 화면 - 포이 공격 타입 문자열
+STRING_LOBBY_49	EAEAEA	디트는 긍정과 용기를 신념으로 하는 전설적인 믹스마스터의 후예이다. 빠른 몸놀림을 위해 가벼\n운 방어구를 착용하므로 방어력은 높지 않지만 단검을 이용한 재빠른 근접공격이 특기이다.  			캐릭터 선택 화면 - 디트 캐릭터 소개
+STRING_LOBBY_50	EAEAEA	고대마법국가 에르키나스 왕족의 혈통인 도로시는 엘프처럼 타고난 마법사이다. 여느 마법사들\n처럼 방어력과 체력은 매우 약하지만 다양한 마법을 구사하여 약점을 커버한다.			캐릭터 선택 화면 - 도로시 캐릭터 소개
+STRING_LOBBY_51	EAEAEA	레이는 헤르세바왕국의 영웅적인 전사들의 후예이다. 혹독한 훈련으로 단련된 신체를 가진 레이\n는 무쇠와 같은 물리방어력과 강력한 한방으로 적과 맞서 싸운다.			캐릭터 선택 화면 - 레이 캐릭터 소개
+STRING_LOBBY_52	EAEAEA	포이는 고대의 종족 시난의 후예로 엘프의 혼혈인 하프엘프이다. 신체능력은 뛰어나지 않지만\n과학과 공학을 활용한 총기와 폭발무기를 능숙하게 사용하여 적을 제압한다.			캐릭터 선택 화면 - 포이 캐릭터 소개
+STRING_LOBBY_53	FFFFFF	캐릭터 커스터마이징			캐릭터 커스터마이징화면 타이틀
+STRING_LOBBY_54	FE8800	캐릭터 이름을 결정할 때 주의하세요!	BusanBada	18	캐릭터 커스터마이징 알림패널 제목
+STRING_LOBBY_55	cfcfcf	캐릭터 이름의 길이는 한글 8글자, 알파벳 16자 이내로 제한됩니다.\n\n해당 서버에서 이미 동일한 이름의 캐릭터가 존재하는 경우에는 중복된 이름을 사용할 수 없습니다.\n\n이용약관 및 운영정책에서 정하는 금지단어, 비속어 등을 포함하거나 그런 의미를 갖는 이름은 제한됩니다. 또한 그런 캐릭터 이름은 캐릭터를 생성한 이후에도 게임 이용이 제한될 수 있습니다.		16	캐릭터 커스터마이징 알림패널 내용
+STRING_TRADE_1	DB0000	거래 할 수 있는 상태가 아닙니다.			거래 할수 있는 상태가 아니다.
+STRING_TRADE_2	DB0000	거래 범위를 벗어났습니다.			 거래 범위를 벗어났다.
+STRING_TRADE_3	DB0000	거래중에 아이템을 사용할 수 없습니다.			거래중에 아이템을 사용할수 없다.
+STRING_TRADE_4	DB0000	거래중에 아이템을 이동할 수 없습니다.			거래중에 아이템을 이동할수 없다.
+STRING_TRADE_5	DB0000	거래중에 아이템을 파괴할 수 없습니다.			거래중에 아이템을 파괴할수 없다.
+STRING_TRADE_6	DB0000	거래중에 캐릭터는 이동할 수 없습니다.			 거래중에 캐릭터는 이동할수 없다.
+STRING_TRADE_7	DB0000	거래중에 아이템을 루팅할 수 없습니다.			 거래중에 아이템을 루팅 할수 없다.
+STRING_TRADE_8	DB0000	이미 목록확정 했으므로 아이템을 넣거나 뺄 수 없습니다.			목록 확정으로 거래 아이템 변경 불가능
+STRING_TRADE_9	DB0000	거래 불가 아이템 입니다.			거래 불가 아이템이다
+STRING_TRADE_10	DB0000	상대방의 인벤토리 공간이 부족하여 아이템을 등록할 수 없습니다.			 상대방의 슬롯이 가득차 더이상 추가할 수 없다
+STRING_TRADE_11	DB0000	상대방의 인벤토리에 여유 공간이 부족하여 거래를 완료할 수 없습니다.			상대방의 인벤에 여유 공간이 없습니다.
+STRING_TRADE_12	0F0F0F	상점 개설 중에는 할 수 없습니다..			상점 개설 중 거래 시도
+STRING_TRADE_13	FFFF00	[{0}]님은\n다른 용무 중 입니다.			상대가 거래 할 수 없는 상태(팝업)
+STRING_TRADE_14	0F0F0F	거래를 요청할 수 없는 상황입니다.			상대가 창고 거래 중
+STRING_TRADE_15	FF0000	자신에게 거래 신청할 수 없습니다.			자신에게 거래 시도
+STRING_TRADE_16	DB0000	믹스중이거나 아이템 강화중일때는 거래를 할 수 없습니다			믹스중이거나 강화 중 거래 시도
+STRING_TRADE_17	DB0000	거래 중에는 거래 요청을 보낼수 없습니다.			거래 중에 거래 시도
+STRING_TRADE_18	DB0000	믹스중에는 거래 요청을 보낼수 없습니다.			믹스 중 거래 시도
+STRING_TRADE_19	DB0000	강화중에는 거래 요청을 보낼수 없습니다.			아이템 강화 중 거래 시도
+STRING_TRADE_20	DB0000	헨치 강화중에는 거래 요청을 보낼수 없습니다.			헨치 강화 중 거래 시도
+STRING_TRADE_21	DB0000	NPC 대화중에는 거래 요청을 보낼수 없습니다.			NPC 대화 중 거래 시도
+STRING_TRADE_22	DB0000	상대방을 찾을 수 없습니다.			거래 대상을 찾다가 에러난 경우
+STRING_TRADE_23	FF0000	거래 대상과의 거리가 멉니다.			거래 대상과의 거리가 먼 경우
+STRING_TRADE_24	FF0000	잘못된 입력입니다			금액에 0을 입력한 경우
+STRING_TRADE_25	FF0000	거래가 완료 되었습니다.			거래 완료
+STRING_TRADE_26	0F0F0F	거래가 취소되었습니다.			거래 취소
+STRING_TRADE_27	0F0F0F	거래창에 빈 슬롯이 없습니다.			거래창에 빈 슬롯 없음
+STRING_TRADE_28	FF0000	한번 결정을 하시면 변경 할 수 없습니다.			거래 결정 후 변경 시도
+STRING_TRADE_29	FFFFFF	<{0}>의 거래 요청을 수락하시겠습니까?			 거래 요청을 수락하시겠습니까?(팝업)
+STRING_TRADE_30	FFFFFF	<{0}>의 수락을 기다리고 있습니다.			 수락을 기다리고 있습니다.(팝업)
+STRING_TRADE_31	FFFFFF	개인 거래			마우스 우클릭 메뉴 - 개인 거래
+STRING_TRADE_32	FFFFFF	수량입력			수량입력 팝업 타이틀
+STRING_TRADE_33	FDD583	수량을 입력해 주세요			수량입력 팝업 메인
+STRING_TRADE_34	FFFFFF	개인거래			개인 거래 패널 타이틀
+STRING_TRADE_35	FFFFFF	골드입력			금액입력 팝업 타이틀
+STRING_TRADE_36	FDD583	금액을 입력해 주세요			금액입력 팝업 메인
+STRING_TRADE_37	FFFFFF	거래신청			거래신청 팝업 타이틀
+STRING_TRADE_38	FFFFFF	거래대기			거래대기 팝업 타이틀
+STRING_PSTORE_1	FFFFFF	<{0}>을(를)\n구입 하시겠습니까?			개인상점 물건 구입시 팝업 메시지
+STRING_PSTORE_2	FFFFFF	아이템 구입			개인상점 물건 구입시 팝업 타이틀
+STRING_PSTORE_3	FFFFFF	판매 등록			개인상점 물건 판매시 가격 팝업 타이틀
+STRING_PSTORE_4	FFFFFF	상점 개설			개인상점 개설 버튼
+STRING_PSTORE_5	FF0000	이미 등록한 아이템 입니다.			아이템 중복 등록 시도
+STRING_PSTORE_6	FF0000	등록 할 수 없는 아이템 입니다..			개인 상점에 등록불가능한 아이템 등록 시도
+STRING_PSTORE_7	FF0000	비어 있는 슬롯이 없습니다.			개인 상점 슬롯이 꽉 찬 상태 에러
+STRING_PSTORE_8	FF0000	0 GP 이하로는 입력 할 수 없습니다.			판매가격이 0이하인 경우 에러
+STRING_PSTORE_9	FF0000	최대 보유 GP 금액을 초과하였습니다.			보유 GP가 최대치여서 상점개설 불가
+STRING_PSTORE_10	FF0000	아이템을 등록 하고 상점을 열어주세요.			판매 아이템 없이 상점개설 불가
+STRING_PSTORE_11	353535	{0}의 상점			상점 이름 접미어
+STRING_PSTORE_12	FF0000	개인 상점을 열었습니다.			개인상점 개설시 채팅창 메시지
+STRING_PSTORE_13	FFFFFF	판매 종료			개인상점 종료 버튼
+STRING_PSTORE_14	FF0000	판매자가 개인 상점을 닫았습니다.			물건 구매 도중 상점이 닫혔을 때 채팅창 메시지
+STRING_PSTORE_15	FF0000	개인 상점을 닫았습니다.			자신의 개인 상점을 닫았을 때 채팅창 메시지
+STRING_PSTORE_16	FFFFFF	구매			개인상점 구매 버튼
+STRING_PSTORE_17	FFFFFF	상점의 이름을 입력해 주세요.			상점 이름 입력란 초기값
+STRING_PSTORE_18	FF0000	GP가 부족합니다.			구매자의 돈이 모자르다.
+STRING_PSTORE_19	FF0000	해당 아이템을 찾을 수 없습니다.			구매 요청한 아이템을 찾을수없다.(이미 다 팔렸다?)
+STRING_PSTORE_20	FF0000	상점이 닫혔습니다.			개인상점을 찾을수 없다.
+STRING_PSTORE_21	FF0000	가방이 가득 찼습니다.			구매자의 인벤토리가 부족하다.
+STRING_PSTORE_22	FF0000	마을외엔 개인상점을 개설할 수 없습니다.			마을 외엔 개인상점 개설 할 수 없다
+STRING_PSTORE_23	FF0000	잘못된 아이템을 등록 하였습니다.			잘못된 아이템을 등록해서 상점 개설 실패
+STRING_PSTORE_24	FF0000	아이템 정보를 찾을수가 없습니다.			DB에 없는 아이템을 등록해서 상점 개설 실패
+STRING_PSTORE_25	FF0000	판매 아이템의 가격정보가 없습니다.			 아이템 가격 정보가 없다.
+STRING_PSTORE_26	FF0000	귀속 아이템은 거래를 할 수 없습니다.			 귀속 아이템을 거래 할 수 없습니다.
+STRING_PSTORE_27	FF0000	거래불가 아이템은 거래를 할 수 없습니다.			 거래불가 아이템은 거래를 할 수 없습니다.
+STRING_PSTORE_28	FF0000	판매 가격이 최대 소지금액을 초과했습니다.			판매 가격이 최대 소지금액을 초과해서 상점 개설 실패
+STRING_PSTORE_29	FF0000	개인상점을 개설 할 수 없습니다.			개인상점을 개설 할 수 없습니다.
+STRING_PSTORE_30	FF0000	잘못된 정보로 개인상점을 개설 할 수 없습니다.			잘못된 정보로 개인상점을 개설 할 수 없습니다.
+STRING_PSTORE_31	FF0000	NPC와 대화 중에는 개인상점을 열 수 없습니다.			NPC 대화 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_32	FF0000	창고 이용 중에는 개인상점 개설이 불가합니다.			창고 이용 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_33	FF0000	NPC 상점 이용 중에는 개인상점을 열 수 없습니다.			NPC상점 이용 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_34	FF0000	강화 이용 중에는 개인상점을 열 수 없습니다.			강화 이용 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_35	FF0000	믹스창 이용 중에는 개인상점을 열 수 없습니다.			믹스창 이용 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_36	FF0000	우편함 이용 중에는 개인상점을 열 수 없습니다.			우편함 이용 중에는 개인상점 개설이 불가합니다.
+STRING_PSTORE_37	FFFFFF	개인 상점			개인상점 패널 타이틀
+STRING_PSTORE_38	FFFFFF	닫기			개인상점 패널 닫기 버튼 레이블
+STRING_NSTORE_1	FF0000	개인상점 이용중엔 NPC 상점을 이용할 수 없습니다.			개인상점 사용 중에 NPC 상점 이용 시도 에러
+STRING_NSTORE_2	FFFFFF	물품구매			NPC 대화 메뉴 물품구매
+STRING_NSTORE_3	FFFFFF	헨치 부활			NPC 대화 메뉴 헨치부활
+STRING_NSTORE_4	FFFFFF	강화			NPC 대화 메뉴 아이템 강화
+STRING_NSTORE_5	FFFFFF	헨치 강화			NPC 대화 메뉴 아이템 헨치강화
+STRING_NSTORE_6	FFFFFF	헨치 믹스			NPC 대화 메뉴 아이템 헨치믹스
+STRING_NSTORE_7	FFFFFF	우편함			NPC 대화 메뉴 아이템 우편함
+STRING_NSTORE_8	FFFFFF	위치 저장			NPC 대화 메뉴 아이템 위치저장
+STRING_NSTORE_9	FFFFFF	창고			NPC 대화 메뉴 아이템 창고
+STRING_NSTORE_10	FFFFFF	길드 개설			NPC 대화 메뉴 아이템 길드개설
+STRING_NSTORE_11	FFFFFF	이벤트 아이템수령			NPC 대화 메뉴 아이템 이벤트 아이템수령
+STRING_NSTORE_12	FFFFFF	이동 하시겠습니까?			NPC 대화 - 워프하겠냐는 팝업 질문 메시지
+STRING_NSTORE_13	FF0000	개인상점 이용중엔 창고를 이용할 수 없습니다.			NPC 대화 - 개인상점 사용 중 창고열기 시도
+STRING_NSTORE_14	FF0000	개인상점 이용중엔 아이템 강화창을 이용할 수 없습니다.			NPC 대화 - 개인상점 사용 중 아이템 강화창 열기 시도
+STRING_NSTORE_15	FF0000	개인상점 이용중엔 헨치 강화창을 이용할 수 없습니다.			NPC 대화 - 개인상점 사용 중 헨치 강화창 열기 시도
+STRING_NSTORE_16	FF0000	개인상점 이용 중에는 믹스창 사용이 불가합니다.			NPC 대화 - 개인상점 사용 중 믹스창 열기 시도
+STRING_NSTORE_17	FF0000	우편함 이용 중에는 믹스창을 이용할 수 없습니다.			NPC 대화 - 우편함 사용 중 믹스창 열기 시도
+STRING_NSTORE_18	FF0000	개인상점 이용중엔 우편함을 이용할 수 없습니다.			NPC 대화 - 개인상점 사용 중 우편함 열기 시도
+STRING_NSTORE_19	FFFFFF	생성			NPC 대화 - 던전 버튼 클릭시
+STRING_NSTORE_20	FFFFFF	{0}을(를) {1}개 판매 했습니다.			아이템을 팔았을때 메시지(채팅창)
+STRING_NSTORE_21	FFFFFF	{0}을(를) {1}개 구매 했습니다.			아이템을 구입했을때 메시지(채팅창)
+STRING_NSTORE_22	FF0000	판매가 제한된 아이템입니다.			판매불가 아이템 판매 시도(채팅창)
+STRING_NSTORE_23	FF0000	NPC 정보를 찾을 수 없습니다.			NPC정보를 찾을 수 없다.
+STRING_NSTORE_24	FF0000	캐릭터를 찾을수 없습니다.			캐릭터를 찾을수 없습니다.
+STRING_NSTORE_25	FFFFFF	<{0}>\n위치가 저장되었습니다.			세이브 포인트 저장 성공
+STRING_NSTORE_26	FFFFFF	구입			구입 버튼/탭 레이블
+STRING_NSTORE_27	FFFFFF	상점			상점 패널 타이틀
+STRING_NSTORE_28	FFFFFF	되사기			상점 되사기 탭 제목
+STRING_NSTORE_29	FFFFFF	프르마이 결전장 참가신청			프르마이 결전장 참가신청
+STRING_NSTORE_30	FFFFFF	프르마이 결전장 입장			프르마이 결전장 입장
+STRING_NSTORE_31	FFFFFF	프르마이 결전장에\n참가를 신청했습니다.			믹스크램블 참가신청이 완료되었습니다.
+STRING_CASH_1	FFFFFF	<{0}> * <{1}>\n아이템을 구매하였습니다.			캐시아이템 구매
+STRING_CASH_2	FFFFFF	인기			캐시샵 1번 탭 - 1번 항목
+STRING_CASH_3	FFFFFF	신규			캐시샵 1번 탭 - 2번 항목
+STRING_CASH_4	FFFFFF	특가			캐시샵 1번 탭 - 3번 항목
+STRING_CASH_5	FFFFFF	NULL			캐시샵 1번 탭 - 4번 항목
+STRING_CASH_6	FFFFFF	NULL			캐시샵 1번 탭 - 5번 항목
+STRING_CASH_7	FFFFFF	NULL			캐시샵 1번 탭 - 6번 항목
+STRING_CASH_8	FFFFFF	가방/창고			캐시샵 2번 탭 - 1번 항목
+STRING_CASH_9	FFFFFF	워프머신			캐시샵 2번 탭 - 2번 항목
+STRING_CASH_10	FFFFFF	부활			캐시샵 2번 탭 - 3번 항목
+STRING_CASH_11	FFFFFF	NULL			캐시샵 2번 탭 - 4번 항목
+STRING_CASH_12	FFFFFF	NULL			캐시샵 2번 탭 - 5번 항목
+STRING_CASH_13	FFFFFF	NULL			캐시샵 2번 탭 - 6번 항목
+STRING_CASH_14	FFFFFF	헨치강화			캐시샵 3번 탭 - 1번 항목
+STRING_CASH_15	FFFFFF	헨치믹스			캐시샵 3번 탭 - 2번 항목
+STRING_CASH_16	FFFFFF	아이템강화			캐시샵 3번 탭 - 3번 항목
+STRING_CASH_17	FFFFFF	NULL			캐시샵 3번 탭 - 4번 항목
+STRING_CASH_18	FFFFFF	NULL			캐시샵 3번 탭 - 5번 항목
+STRING_CASH_19	FFFFFF	NULL			캐시샵 3번 탭 - 6번 항목
+STRING_CASH_20	FFFFFF	NULL			캐시샵 4번 탭 - 1번 항목
+STRING_CASH_21	FFFFFF	NULL			캐시샵 4번 탭 - 2번 항목
+STRING_CASH_22	FFFFFF	NULL			캐시샵 4번 탭 - 3번 항목
+STRING_CASH_23	FFFFFF	NULL			캐시샵 4번 탭 - 4번 항목
+STRING_CASH_24	FFFFFF	NULL			캐시샵 4번 탭 - 5번 항목
+STRING_CASH_25	FFFFFF	NULL			캐시샵 4번 탭 - 6번 항목
+STRING_CASH_26	FFFFFF	NULL			캐시샵 5번 탭 - 1번 항목
+STRING_CASH_27	FFFFFF	NULL			캐시샵 5번 탭 - 2번 항목
+STRING_CASH_28	FFFFFF	NULL			캐시샵 5번 탭 - 3번 항목
+STRING_CASH_29	FFFFFF	NULL			캐시샵 5번 탭 - 4번 항목
+STRING_CASH_30	FFFFFF	NULL			캐시샵 5번 탭 - 5번 항목
+STRING_CASH_31	FFFFFF	NULL			캐시샵 5번 탭 - 6번 항목
+STRING_CASH_32	FFFF00	캐시 잔액이 부족해서 아이템을 구입할 수 없습니다.			캐시 잔액이 부족합니다.
+STRING_CASH_33	FFFF00	가방이 가득차서 아이템을 구입할 수 없습니다.			가방이 가득찼습니다.
+STRING_CASH_34	FFFFFF	닫 기			닫기 버튼 레이블
+STRING_CASH_35	FFFFFF	메인			메인메뉴 1번 탭버튼 레이블
+STRING_CASH_36	FFFFFF	편의성			메인메뉴 2번 탭버튼 레이블
+STRING_CASH_37	FFFFFF	기능성			메인메뉴 3번 탭버튼 레이블
+STRING_CASH_38	FFFFFF	프리미엄			메인메뉴 4번 탭버튼 레이블
+STRING_CASH_39	FFFFFF	패키지			메인메뉴 5번 탭버튼 레이블
+STRING_CASH_40	FFFFFF	구매하기		14	구입 버튼 레이블
+STRING_CASH_41	FFFFFF	보유캐시		14	보유캐시 레이블
+STRING_CASH_42	FFFFFF	캐시 상점			캐시샵 타이틀 레이블
+STRING_CASH_43	FFE400	캐시 충전하기			캐시 충전하기 버튼 레이블
+STRING_CASH_44	E0A840	서비스 캐시			서비스 캐시
+STRING_CASH_45	76E509	NULL	BusanBada	15	캐시샵 판매 아이템 이름 폰트 (문자열 미사용)
+STRING_CASH_46	76E509	NULL	BusanBada	15	캐시샵 배너 아이템 이름 폰트 (문자열 미사용)
+STRING_GUILD_1	FFFFFF	길드 탈퇴			길드 탈퇴 버튼 레이블
+STRING_GUILD_2	FFFFFF	길드 해체			길드 해체 버튼 레이블
+STRING_GUILD_3	FFFFFF	{0}명 접속중			접속 중인 길드 멤버 숫자 레이블
+STRING_GUILD_4	FFFFFF	길드 신청			길드 생성 팝업 타이틀
+STRING_GUILD_5	F6E0AE	길드명을 입력하세요\n(한글8글자,영어16글자 이내)			길드 생성 팝업 레이블
+STRING_GUILD_6	F6E0AE	정말로 길드를\n해체 하시겠습니까?			길드 해체 확인 질문
+STRING_GUILD_7	F6E0AE	<{0}>\n길드를 정말로\n탈퇴 하시겠습니까?			길드 탈퇴 확인 질문
+STRING_GUILD_8	F6E0AE	<{0}>님을\n길드에서 추방하시겠습니까?			멤버 추방 확인 질문
+STRING_GUILD_9	F6E0AE	<{0}>님을\n길드장으로\n위임 하시겠습니까?			길드장 위임 확인 질문
+STRING_GUILD_10	F6E0AE	<{0}>님을\n부길드장으로\n임명 하시겠습니까?			부길드장 임명 확인 질문
+STRING_GUILD_11	FFFFFF	접속중			접속 상태 레이블
+STRING_GUILD_12	FFFFFF	비접속			비접속 상태 레이블
+STRING_GUILD_13	FFFFFF	공지사항			 길드 공지 편집 팝업 제목
+STRING_GUILD_14	F6E0AE	공지사항을 입력하세요.			길드 공지 편집 팝업 레이블
+STRING_GUILD_15	FFFFFF	길드장			길드장 단어
+STRING_GUILD_16	FFFFFF	부길드장			부길드장 단어
+STRING_GUILD_17	FFFFFF	길드원			길드원 단어
+STRING_GUILD_18	FFFF00	만들수 없는 길드 이름입니다.			길드 생성시 만들 수 없는 길드 이름을 입력
+STRING_GUILD_19	FFFF00	공백은 사용할 수 없습니다.			길드 생성시 공백문자가 있는 길드 이름 입력
+STRING_GUILD_20	FFFF00	한글과 영문만 사용 가능합니다.			길드 생성시 특수문자가 있는 길드 이름 입력
+STRING_GUILD_21	FFFF00	비속어를 사용할 수 없습니다			 길드 생성시 비속어가 있는 길드 이름 입력
+STRING_GUILD_22	FFFF00	자기 자신을 길드초대 했습니다.			자신에게 길드 초대 에러
+STRING_GUILD_23	FFFF00	<{0}>\n길드 생성 완료			길드생성 완료 메시지
+STRING_GUILD_24	FFFF00	<{0}>\n길드 해제가\n완료 되었습니다.			길드해제 완료 메시지
+STRING_GUILD_25	FFFFFF	<{0}>님이\n <{1}>길드에\n 초대하셨습니다.			길드 초대 받았을 때 메시지
+STRING_GUILD_26	FFFF00	길드 가입이 완료되었습니다.			자신이 길드 개설하거나 길드 초대를 한 상대가 수락을 한 경우
+STRING_GUILD_27	FF0000	<{0}>님이 길드에 가입하였습니다.			다른 사람이 길드 가입되었을 때 메시지
+STRING_GUILD_28	FFFF00	<{0}>길드\n가입이 완료되었습니다.			자신에게 온 길드 초대를 수락해서 길드에 가입된 경우
+STRING_GUILD_29	FF0000	공지 사항 변경 : 			공지사항 변경되었을 때 공지사항 앞에 붙는 문자열(채팅창)
+STRING_GUILD_30	FF0000	(길드) <{0}>님이 길드를 탈퇴했습니다.			길드 멤버가 탈퇴했을 때 메시지
+STRING_GUILD_31	FF0000	길드를 탈퇴했습니다.			자신이 길드탈퇴했을 때 팝업 레이블
+STRING_GUILD_32	FF0000	<{0}>님이 길드에서 추방당했습니다.			길드 멤버가 추방당했을 때 메시지
+STRING_GUILD_33	FFFF00	길드에서 추방당했습니다.			자신이 추방당했을 때 팝업 레이블
+STRING_GUILD_34	FF0000	(길드) <{0}>님이 캐릭터를 삭제 했습니다.			길드 멤버가 캐릭터 삭제했을 때 메시지
+STRING_GUILD_35	FF0000	(길드) <{0}>님이 접속 종료했습니다.			길드 멤버가 접속 종료했을 때 메시지
+STRING_GUILD_36	FF0000	<{0}>님이 길드장으로 변경 되었습니다.			길드장이 변경되었을 때 메시지
+STRING_GUILD_37	FF0000	<{0}>님이 부길드장으로 임명 되었습니다.			부길드장이 변경되었을 때 메시지
+STRING_GUILD_38	FFFF00	<{0}>님이\n길드 초대를 거절했습니다.			다른 사람이 길드 초대 거절했을 때 팝업 레이블
+STRING_GUILD_39	FFFF00	<{0}>길드\n탈퇴가 완료되었습니다.			길드 탈퇴 완료 팝업 레이블
+STRING_GUILD_40	FFFF00	길드에 이미 소속되어 있습니다.			이미 길드에 소속되어 있다. (생성시, 가입요청시)
+STRING_GUILD_41	FFFF00	레벨이 부족하여 아직 길드를 생성할 수 없습니다.			길드 창설 가능 레벨이 부족하다.
+STRING_GUILD_42	FFFF00	GP가 부족해서 길드를 생성할 수 없습니다.			길드 창설 비용이 부족하다.
+STRING_GUILD_43	FFFF00	이미 같은길드명이 존재합니다.			길드 창설할 이름이 중복이다.(해당 길드명이 이미 존재한다.)
+STRING_GUILD_44	FF0000	길드 정보를 찾을 수 없습니다.			길드 정보를 찾을 수 없다.
+STRING_GUILD_45	FF0000	길드장이 아니라서 명령을 수행 할 수 없습니다.			 길드장이 아니라서 명령을 수행 할 수 없다.
+STRING_GUILD_46	FF0000	사용할 수 없는 문자가 포함되어 있습니다.			길드 공지에 사용할수 없는 문자열입니다.
+STRING_GUILD_47	FFFF00	길드원이 없어야 합니다.			길드원이 있어서 해체 할 수 없다.
+STRING_GUILD_48	FF0000	접속 중이 아닙니다.			 접속중이 아니다. (길드 초대 요청시)
+STRING_GUILD_49	FF0000	캐릭터 정보를 찾을 수 없습니다.			캐릭터 정보를 찾을 수 없다. (길드 초대/추방/탈퇴 요청시)
+STRING_GUILD_50	FFFF00	길드원이 가득 찼습니다.			길드 인원 제한에 걸려 더이상 초대 할 수 없다.
+STRING_GUILD_51	FF0000	이미 길드 초대를 받은 상태 입니다.			 다른(같은) 길드 초대를 받은 캐릭터이다.
+STRING_GUILD_52	FF0000	길드 멤버가 아닙니다.			 길드 멤버가 아니다. (길드 추방/탈퇴/길마변경 요청시)
+STRING_GUILD_53	FF0000	(길드) <{0}>님이 접속 하셨습니다			길드 멤버가 접속 했을 때 메시지
+STRING_GUILD_54	C7CF81	이름			이름 레이블
+STRING_GUILD_55	C7CF81	레벨			레벨 레이블
+STRING_GUILD_56	C7CF81	등급			등급 레이블
+STRING_GUILD_57	C7CF81	접속 길드원만 표시			접속 길드원만 표시 레이블
+STRING_GUILD_58	C7CF81	접속상태			접속상태 레이블
+STRING_GUILD_59	FFFFFF	편집			공지사항 편집 레이블
+STRING_GUILD_60	C7CF81	길드			길드 탭 타이틀
+STRING_GUILD_61	FFFFFF	길드장 위임			길드원 우클릭 메뉴 - 길드장 위임
+STRING_GUILD_62	FFFFFF	부길드장 임명			길드원 우클릭 메뉴 - 부길드장 임명
+STRING_GUILD_63	FFFFFF	길드원 추방			길드원 우클릭 메뉴 - 길드원 추방
+STRING_GUILD_64	FFFFFF	길드 초대			마우스 우클릭 메뉴 - 길드 초대
+STRING_POST_1	FFFFFF	편지를 삭제하시겠습니까?			받은 우편 삭제 팝업 질문 메시지
+STRING_POST_2	FFFFFF	편지 삭제 완료			우편 삭제 완료 팝업 메시지
+STRING_POST_3	FF0000	등록 할 수 없는 아이템 입니다..			우편으로 보낼 수 없는 아이템 등록 시도 에러
+STRING_POST_4	FFFF00	제목을 입력하세요			제목 없이 우편 보내기 시도 에러
+STRING_POST_5	FFFF00	내용을 입력하세요			내용 없이 우편 보내기 시도 에러
+STRING_POST_6	FFFFFF	우편함\n\n[FFFF00]새로운 우편물이 없습니다.			우편함 툴팁 - 기본상태
+STRING_POST_7	FFFFFF	우편함\n\n[FFFF00]우편함이 비어 있습니다.			우편함 툴팁 - 우편함이 비어있다
+STRING_POST_8	FFFFFF	우편함\n\n[FFFF00]우편함이 가득 차 있습니다.			우편함 툴팁 - 우편함이 가득찼다
+STRING_POST_9	FFFFFF	우편함\n[FFFF00]미확인 우편함이 있습니다.			우편함 툴팁 - 읽지 않은 우편이 있다
+STRING_POST_10	FFFF00	자신에게 우편을 보낼 수 없습니다.			우편 발송 실패 - 자신에게 메일을 보낼 수 없다.
+STRING_POST_11	FFFF00	해당 캐릭터는 존재하지 않습니다.			우편 발송 실패 - 수신자가 존재 하지 않는다(수신자 캐릭명 잘못 되었다)
+STRING_POST_12	FFFF00	소지금이 부족합니다.			우편 발송 실패 - 수수료가 부족하거나 소지한 금액이 첨부 금액보다 적음
+STRING_POST_13	FFFF00	수신자의 우편함이 가득 찼습니다.			우편 발송 실패 - 수신자의 우편함이 가득 찼다
+STRING_POST_14	FFFF00	우편 보내기에 실패했습니다.			우편 보내기에 실패했습니다.
+STRING_POST_15	FFFF00	우편 발송 완료			우편 발송 완료
+STRING_POST_16	FFFF00	인벤토리 공간이\n부족합니다.			우편물 받기 실패 - 인벤토리 공간 부족
+STRING_POST_17	FFFF00	소지 한도 GP를\n초과하였습니다.			우편물 받기 실패 - 소지금액이 최대인 상태
+STRING_POST_18	FFFF00	우편을 받는데 실패했습니다.			우편을 받는데 실패했습니다.
+STRING_POST_19	FFFF00	첨부 물품을 받았습니다.			첨부 물품을 받았습니다.
+STRING_POST_20	FFFFFF	우편함			우편함 패널 타이틀
+STRING_POST_21	FFFFFF	닫기			우편함 닫기 버튼
+STRING_POST_22	FFFFFF	선택 삭제			받은 우편 선택 삭제 버튼
+STRING_POST_23	FFFFFF	전체선택			받은 우편 전체 선택 버튼
+STRING_POST_24	FDD583	받지 않은 아이템이나 GP가 있습니다.\n편지를 삭제하시겠습니까?			받지 않은 아이템이 있는 우편 삭제 시도시 팝업 질문
+STRING_POST_25	C7CF81	금액			우편 보내기창 금액
+STRING_POST_26	C7CF81	수수료			우편 보내기창 수수료
+STRING_POST_27	C7CF81	내용			우편 보내기창 내용
+STRING_POST_28	C7CF81	첨부 물품			우편 보내기창 첨부물품
+STRING_POST_29	C7CF81	소지금			우편 보내기창 소지금
+STRING_POST_30	C7CF81	받는 사람			우편 보내기창 받는 사람
+STRING_POST_31	FFFFFF	발송			우편 보내기창 발송
+STRING_POST_32	C7CF81	제목			우편 보내기창 제목
+STRING_POST_33	C7CF81	받은 편지함			우편함 받은 편지함 탭 제목
+STRING_POST_34	C7CF81	편지 보내기			우편함 편지 보내기 탭 제목
+STRING_POST_35	FFFFFF	받은 편지			받은 편지함 타이틀
+STRING_POST_36	C7CF81	보낸 사람			받은 편지함 보낸 사람
+STRING_POST_37	C7CF81	제    목			받은 편지함 제목
+STRING_POST_38	FFFFFF	받기			받은 편지함 받기
+STRING_POST_39	FFFFFF	삭제			받은 편지함 삭제
+STRING_POST_40	C7CF81	첨부 금액			받은 편지함 첨부 금액
+STRING_POST_41	C7CF81	첨부 물품			받은 편지함 첨부물품
+STRING_WARE_1	FFFFFF	수량을 입력하세요			창고 아이템 분할 팝업 레이블
+STRING_WARE_2	FFFFFF	수량 선택			창고 아이템 분할 팝업 제목
+STRING_WARE_3	FFFFFF	입금			창고 입금 팝업 제목
+STRING_WARE_4	FFFFFF	출금			창고 출금 팝업 제목
+STRING_WARE_5	FF0000	이미 모든 창고가 열려있습니다.			모든 창고가 이미 열려있다.
+STRING_WARE_6	FF0000	이미 창고 2번 탭이 열려있습니다.			 창고 캐시 1번 탭이 이미 열려있다.(창고)
+STRING_WARE_7	FF0000	이미 창고 3번 탭이 열려있습니다.			창고 캐시 2번 탭이 이미 열려있다.(창고)
+STRING_WARE_8	FF0000	이미 창고 4번 탭이 열려있습니다.			창고 캐시 3번 탭이 이미 열려있다.(창고)
+STRING_WARE_9	FF0000	빈 슬롯이 없습니다.			빈 슬롯이 없습니다.
+STRING_WARE_10	FF0000	해당 창고 탭은 사용 할 수 없습니다.			해당 창고 탭은 사용 할 수 없습니다.
+STRING_WARE_11	FFFFFF	개인창고			창고 패널 타이틀
+STRING_WARE_12	FFF58B	창고1			창고1 탭 제목
+STRING_WARE_13	FFF58B	창고2			창고2 탭 제목
+STRING_WARE_14	FFF58B	창고3			창고3 탭 제목
+STRING_WARE_15	FFF58B	창고4			창고4 탭 제목
+STRING_WARE_16	FFFFFF	예금하기		16	창고 예금 버튼 레이블
+STRING_WARE_17	FFFFFF	인출하기		16	창고 출금 버튼 레이블
+STRING_CHAT_1	DB0000	{0}님은 몬스터월드에 접속중이 아닙니다.			귓속말 시도 실패
+STRING_CHAT_2	FFFFFF	일반			입력창 레이블 - 일반
+STRING_CHAT_3	FFFFFF	파티			입력창 레이블 - 파티
+STRING_CHAT_4	FFFFFF	길드			입력창 레이블 - 길드
+STRING_CHAT_5	FFFFFF	귓속말			입력창 레이블 - 귓속말
+STRING_CHAT_6	FF0000	도배로 인하여 채팅이 금지되었습니다. {0}초후 다시 시도해주세요			도배로 인한 채팅 금지 안내
+STRING_CHAT_7	FF0000	파티에 가입 되어 있지 않습니다.			파티 미가입 상태에서 파티 채팅 시도
+STRING_CHAT_8	DB0000	스턴 상태에선 이동 할 수 없습니다.			스턴 상태에선 이동 할수 없다.(예외처리)
+STRING_CHAT_9	DB0000	판매 불가 아이템입니다.			판매 불가 아이템입니다.(예외처리)
+STRING_CHAT_10	DB0000	아이템을 찾을수 없습니다.			아이템을 찾을수 없습니다.(예외처리)
+STRING_CHAT_11	DB0000	탭 아이디가 잘못 되었습니다.			탭 아이디가 잘못 되었습니다.(예외처리)
+STRING_CHAT_12	DB0000	슬롯번호가 잘못 되었습니다.			슬롯번호가 잘못 되었습니다.(예외처리)
+STRING_CHAT_13	DB0000	아이템을 이동 할 수가 없습니다.			아이템을 이동 할 수가 없습니다.(예외처리)
+STRING_CHAT_14	DB0000	아이템을 갯수가 부족합니다.			아이템을 갯수가 부족합니다.(예외처리)
+STRING_CHAT_15	DB0000	GP가 부족합니다.			GP가 부족합니다.(예외처리)
+STRING_CHAT_16	DB0000	재료가 부족합니다.			재료가 부족합니다.(예외처리)
+STRING_CHAT_17	DB0000	최대 금액을 넘었습니다.			최대 금액을 넘었습니다.(예외처리)
+STRING_CHAT_18	DB0000	가방 탭이 잠겨있어 할 수 없는 행동입니다.			가방 탭이 잠겨있어 할 수 없는 행동입니다.(예외처리)
+STRING_CHAT_19	DB0000	가방이 가득찼습니다.			가방이 가득찼습니다.(예외처리)
+STRING_CHAT_20	DB0000	파괴 할 수 없습니다.			파괴 할 수 없습니다.(예외처리)
+STRING_CHAT_21	DB0000	소모 아이템이 부족합니다			소모 아이템이 부족합니다(예외처리)
+STRING_CHAT_22	DB0000	소유권 문제로 아직 습득 할 수 없다.			소유권 문제로 아직 습득 할 수 없다.(예외처리)
+STRING_CHAT_23	DB0000	아이템 습득 거리가 너무 멉니다.			아이템 습득 거리가 너무 멉니다.(예외처리)
+STRING_CHAT_24	DB0000	아이템 장착 위치가 다릅니다.			아이템 장착 위치가 다릅니다.(예외처리)
+STRING_CHAT_25	DB0000	강화 할 수 없는 아이템입니다.			강화 할 수 없는 아이템입니다.(예외처리)
+STRING_CHAT_26	DB0000	강화 재료가 아닙니다.			강화 재료가 아닙니다.(예외처리)
+STRING_CHAT_27	DB0000	강화 불가 아이템 입니다.			강화 불가 아이템 입니다.(예외처리)
+STRING_CHAT_28	DB0000	이미 강화가 최대치 입니다.			이미 강화가 최대치 입니다.(예외처리)
+STRING_CHAT_29	DB0000	가방 탭아이디 슬롯번호가 잘못 되었습니다.			가방 탭아이디 슬롯번호가 잘못 되었습니다.(예외처리)
+STRING_CHAT_30	DB0000	헨치 레벨이 잘못 되었습니다.			헨치 레벨이 잘못 되었습니다.(예외처리)
+STRING_CHAT_31	DB0000	수수료가 잘못되었습니다.			수수료가 잘못되었습니다.(예외처리)
+STRING_CHAT_32	DB0000	최대 중첩 갯수를 넘습니다.			최대 중첩 갯수를 넘습니다.(예외처리)
+STRING_CHAT_33	DB0000	퀘스트 요구 갯수를 이미 충족했습니다.			퀘스트 요구 갯수를 이미 충족했습니다.(예외처리)
+STRING_CHAT_34	DB0000	이미 완료한 퀘스트 입니다.			이미 완료한 퀘스트 입니다.(예외처리)
+STRING_CHAT_35	DB0000	공격자를 찾을 수 없습니다.			공격자를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_36	DB0000	타겟를 찾을 수 없습니다.			타겟를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_37	DB0000	죽은 상태로 공격할 수 없습니다.			죽은 상태로 공격할 수 없습니다.(예외처리)
+STRING_CHAT_38	DB0000	타겟이 이미 죽었습니다.			타겟이 이미 죽었습니다.(예외처리)
+STRING_CHAT_39	DB0000	스킬을 찾을 수 없습니다.			스킬을 찾을 수 없습니다.(예외처리)
+STRING_CHAT_40	DB0000	패시브 스킬은 사용할 수 없습니다.			패시브 스킬은 사용할 수 없습니다.(예외처리)
+STRING_CHAT_41	DB0000	사거리보다 멀리 있습니다.			사거리보다 멀리 있습니다.(예외처리)
+STRING_CHAT_42	DB0000	스킬 레벨이 잘못 되었습니다.			스킬 레벨이 잘못 되었습니다.(예외처리)
+STRING_CHAT_43	DB0000	PK 모드가 아닙니다.			PK 모드가 아닙니다.(예외처리)
+STRING_CHAT_44	DB0000	버프를 찾을 수 없습니다.			버프를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_45	DB0000	귓속말 대상을 찾을 수 없습니다.			귓속말 대상을 찾을 수 없습니다.(예외처리)
+STRING_CHAT_46	DB0000	헨치 정보를 찾을 수 없습니다.			헨치 정보를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_47	DB0000	헨치 정보를 생성 할 수 없습니다.			헨치 정보를 생성 할 수 없습니다.(예외처리)
+STRING_CHAT_48	DB0000	죽은 헨치는 믹스 할 수 없습니다.			죽은 헨치는 믹스 할 수 없습니다.(예외처리)
+STRING_CHAT_49	DB0000	죽은 헨치는 소환 할 수 없습니다.			죽은 헨치는 소환 할 수 없습니다.(예외처리)
+STRING_CHAT_50	DB0000	다른 케릭터에게 파티 초대 받고 있습니다.			다른 케릭터에게 파티 초대 받고 있습니다.(예외처리)
+STRING_CHAT_51	DB0000	파티가 아니라 인던에 입장이 불가능 합니다.			파티가 아니라 인던에 입장이 불가능 합니다.(예외처리)
+STRING_CHAT_52	DB0000	거래 할 수 있는 상태가 아닙니다.			거래 할 수 있는 상태가 아닙니다.(예외처리)
+STRING_CHAT_53	DB0000	거래 범위를 벗어났습니다.			거래 범위를 벗어났습니다.(예외처리)
+STRING_CHAT_54	DB0000	거래중에 아이템을 사용할 수 없습니다.			거래중에 아이템을 사용할 수 없습니다.(예외처리)
+STRING_CHAT_55	DB0000	이미 거래 중입니다.			이미 거래 중입니다.(예외처리)
+STRING_CHAT_56	DB0000	거래중에 아이템을 이동할 수 없습니다.			거래중에 아이템을 이동할 수 없습니다.(예외처리)
+STRING_CHAT_57	DB0000	거래중에 아이템을 파괴할수 없습니다.			거래중에 아이템을 파괴할수 없습니다.(예외처리)
+STRING_CHAT_58	DB0000	거래중에 밸러는 이동할수 없습니다.			거래중에 밸러는 이동할수 없습니다.(예외처리)
+STRING_CHAT_59	DB0000	거래중에 아이템을 루팅할 수 없습니다.			거래중에 아이템을 루팅할 수 없습니다.(예외처리)
+STRING_CHAT_60	DB0000	이미 목록확정 했으므로 아이템을 넣거나 뺄 수 없습니다.			이미 목록확정 했으므로 아이템을 넣거나 뺄 수 없습니다.(예외처리)
+STRING_CHAT_61	DB0000	거래 불가 아이템 입니다.			거래 불가 아이템 입니다.(예외처리)
+STRING_CHAT_62	DB0000	상대방의 인벤토리 공간이 부족하여 아이템을 동록할 수 없습니다.			상대방의 인벤토리 공간이 부족하여 아이템을 동록할 수 없습니다.(예외처리)
+STRING_CHAT_63	DB0000	상대방의 인벤토리에 여유 공간이 부족하여 거래를 완료할 수 없습니다.			상대방의 인벤토리에 여유 공간이 부족하여 거래를 완료할 수 없습니다.(예외처리)
+STRING_CHAT_64	DB0000	소환된 헨치코어는 거래 불가 합니다.			소환된 헨치코어는 거래 불가 합니다.(예외처리)
+STRING_CHAT_65	DB0000	NPC 정보를 찾을 수 없습니다.			NPC 정보를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_66	DB0000	NPC와의 거리가 멉니다.			NPC와의 거리가 멉니다.(예외처리)
+STRING_CHAT_67	DB0000	판매 목록에서 찾을수 없습니다.			판매 목록에서 찾을수 없습니다.(예외처리)
+STRING_CHAT_68	DB0000	되사기 목록에서 찾을수 없습니다.			되사기 목록에서 찾을수 없습니다.(예외처리)
+STRING_CHAT_69	DB0000	보호된 아이템입니다.			보호된 아이템입니다.(예외처리)
+STRING_CHAT_70	DB0000	보호할 수 없는 아이템입니다.			보호할 수 없는 아이템입니다.(예외처리)
+STRING_CHAT_71	DB0000	이미 보호된 아이템입니다.			이미 보호된 아이템입니다.(예외처리)
+STRING_CHAT_72	DB0000	이미 보호가 해제된 아이템입니다.			이미 보호가 해제된 아이템입니다.(예외처리)
+STRING_CHAT_73	DB0000	가격 정보를 찾을 수 없습니다.			가격 정보를 찾을 수 없습니다.(예외처리)
+STRING_CHAT_74	DB0000	퀘스트 요청이 잘못 되었습니다.			퀘스트 요청이 잘못 되었습니다.(예외처리)
+STRING_CHAT_75	DB0000	포기 하려는 퀘스트 정보를 찾을수없습니다.			포기 하려는 퀘스트 정보를 찾을수없습니다.(예외처리)
+STRING_CHAT_76	DB0000	요구 아이템 갯수가 부족합니다.			요구 아이템 갯수가 부족합니다.(예외처리)
+STRING_CHAT_77	DB0000	퀘스트 완료를 위해서는 헨치를 가방에 넣어와야 합니다.			퀘스트 완료를 위해서는 헨치를 가방에 넣어와야 합니다.(예외처리)
+STRING_CHAT_78	DB0000	요구 킬수가 부족합니다.			요구 킬수가 부족합니다.(예외처리)
+STRING_CHAT_79	DB0000	직업이 맞지 않습니다.			직업이 맞지 않습니다.(예외처리)
+STRING_CHAT_80	DB0000	레벨이 부족합니다.			레벨이 부족합니다.(예외처리)
+STRING_CHAT_81	DB0000	선행 퀘스트 정보가 없습니다.			선행 퀘스트 정보가 없습니다.(예외처리)
+STRING_CHAT_82	DB0000	선행 퀘스트를 완료 하지 않았습니다.			선행 퀘스트를 완료 하지 않았습니다.(예외처리)
+STRING_CHAT_83	DB0000	NPC에게 해당 퀘스트가 없습니다.			NPC에게 해당 퀘스트가 없습니다.(예외처리)
+STRING_CHAT_84	DB0000	인스턴스를 찾을수 없습니다.			인스턴스를 찾을수 없습니다.(예외처리)
+STRING_CHAT_85	DB0000	인스턴스를 가지고 있지 않습니다.			인스턴스를 가지고 있지 않습니다.(예외처리)
+STRING_CHAT_86	DB0000	인스턴스를 가지고 있습니다.			인스턴스를 가지고 있습니다.(예외처리)
+STRING_CHAT_87	DB0000	아이템 거래중엔 아이템 강화를 할 수 없습니다.			아이템 거래중엔 아이템 강화를 할 수 없습니다.(예외처리)
+STRING_CHAT_88	DB0000	아이템 거래중엔 아이템 헨치믹스를 할 수 없습니다.			아이템 거래중엔 아이템 헨치믹스를 할 수 없습니다.(예외처리)
+STRING_CHAT_89	DB0000	아이템강화중엔 거래를 할 수 없습니다.			아이템강화중엔 거래를 할 수 없습니다.(예외처리)
+STRING_CHAT_90	DB0000	아이템강화중엔 헨치믹스를 할 수 없습니다.			아이템강화중엔 헨치믹스를 할 수 없습니다.(예외처리)
+STRING_CHAT_91	DB0000	헨치믹스중엔 거래를 할 수 없습니다.			헨치믹스중엔 거래를 할 수 없습니다.(예외처리)
+STRING_CHAT_92	DB0000	헨치믹스중엔 아이템 강화를 할 수 없습니다.			헨치믹스중엔 아이템 강화를 할 수 없습니다.(예외처리)
+STRING_CHAT_93	DB0000	헨치 믹스 중엔 개인거래/강화/NPC 상점을 이용할 수 없습니다.			헨치 믹스 중엔 개인거래/강화/NPC 상점을 이용할 수 없습니다.(예외처리)
+STRING_CHAT_94	DB0000	아이템강화 중엔 개인거래/믹스/NPC 상점을 이용할 수 없습니다.			아이템강화 중엔 개인거래/믹스/NPC 상점을 이용할 수 없습니다.(예외처리)
+STRING_CHAT_95	DB0000	개인거래 중엔 강화/믹스/NPC 상점을 이용할 수 없습니다.			개인거래 중엔 강화/믹스/NPC 상점을 이용할 수 없습니다.(예외처리)
+STRING_CHAT_96	DB0000	NPC상점이용 중엔 강화/믹스/개인거래를 이용할 수 없습니다.			NPC상점이용 중엔 강화/믹스/개인거래를 이용할 수 없습니다.(예외처리)
+STRING_CHAT_97	DB0000	반복 퀘스트만 포기가 가능합니다.			반복 퀘스트만 포기가 가능합니다.(예외처리)
+STRING_CHAT_98	DB0000	소모 HP가 부족합니다.			소모 HP가 부족합니다.(예외처리)
+STRING_CHAT_99	DB0000	소모 MP가 부족합니다.			소모 MP가 부족합니다.(예외처리)
+STRING_CHAT_100	DB0000	클래스가 맞지 않습니다.			클래스가 맞지 않습니다.(예외처리)
+STRING_CHAT_101	DB0000	레벨이 낮습니다.			레벨이 낮습니다.(예외처리)
+STRING_CHAT_102	DB0000	정보 셋팅이 되어있지 않습니다.			정보 셋팅이 되어있지 않습니다.(예외처리)
+STRING_CHAT_103	DB0000	지금은 아이템을 사용할수 없습니다.			지금은 아이템을 사용할수 없습니다.(예외처리)
+STRING_CHAT_104	DB0000	캐릭터가 죽었습니다.			캐릭터가 죽었습니다.(예외처리)
+STRING_CHAT_105	FFFF00	인던 입장중에는\n파티(초대, 탈퇴, 추방)을 할 수 없습니다.			인던 입장중에는 파티(초대,탈퇴,추방)을 할 수 없다.(예외처리)
+STRING_CHAT_106	FFFF00	인던 안에서는\n파티(초대, 탈퇴, 추방)을 할 수 없습니다.			인던 안에서는 파티(초대,탈퇴,추방)을 할 수 없다.(예외처리)
+STRING_CHAT_107	FFFF00	파티 멤버가 아직 인던에 있어서\n재생성 할 수 없습니다.			파티 멤버가 아직 인던에 있어서 재생성 할 수 없다.(예외처리)
+STRING_CHAT_108	DB0000	이미 메일함을 이용중입니다.			이미 메일함을 이용중입니다.(예외처리)
+STRING_CHAT_109	FFFFFF	일반			채팅 일반 탭 타이틀
+STRING_CHAT_110	FFFFFF	귓속말			채팅 귓속말 탭 타이틀
+STRING_CHAT_111	FFFFFF	파티			채팅 파티 탭 타이틀
+STRING_CHAT_112	FFFFFF	길드			채팅 길드 탭 타이틀
+STRING_CHAT_113	FFFFFF	시스템			채팅 시스템 탭 타이틀
+STRING_CHAT_114	FFFFFF	인사			채팅창 보이스 재생 메인메뉴
+STRING_CHAT_115	FFFFFF	감정			채팅창 보이스 재생 메인메뉴
+STRING_CHAT_116	FFFFFF	전투			채팅창 보이스 재생 메인메뉴
+STRING_CHAT_117	FFFFFF	기타			채팅창 보이스 재생 메인메뉴
+STRING_CHAT_118	FFFFFF	はい			채팅창 보이스: 디트 - 인사
+STRING_CHAT_119	FFFFFF	NULL			채팅창 보이스: 디트 - 인사
+STRING_CHAT_120	FFFFFF	NULL			채팅창 보이스: 디트 - 인사
+STRING_CHAT_121	FFFFFF	NULL			채팅창 보이스: 디트 - 인사
+STRING_CHAT_122	FFFFFF	NULL			채팅창 보이스: 디트 - 인사
+STRING_CHAT_123	FFFFFF	좋아!			채팅창 보이스: 디트 - 감정
+STRING_CHAT_124	FFFFFF	좌절			채팅창 보이스: 디트 - 감정
+STRING_CHAT_125	FFFFFF	웃음1			채팅창 보이스: 디트 - 감정
+STRING_CHAT_126	FFFFFF	웃음2			채팅창 보이스: 디트 - 감정
+STRING_CHAT_127	FFFFFF	NULL			채팅창 보이스: 디트 - 감정
+STRING_CHAT_128	FFFFFF	성공			채팅창 보이스: 디트 - 전투
+STRING_CHAT_129	FFFFFF	가라!			채팅창 보이스: 디트 - 전투
+STRING_CHAT_130	FFFFFF	아직…			채팅창 보이스: 디트 - 전투
+STRING_CHAT_131	FFFFFF	먹어라!			채팅창 보이스: 디트 - 전투
+STRING_CHAT_132	FFFFFF	NULL			채팅창 보이스: 디트 - 전투
+STRING_CHAT_133	FFFFFF	한숨			채팅창 보이스: 디트 - 기타
+STRING_CHAT_134	FFFFFF	패배			채팅창 보이스: 디트 - 기타
+STRING_CHAT_135	FFFFFF	승리의 외침			채팅창 보이스: 디트 - 기타
+STRING_CHAT_136	FFFFFF	분함			채팅창 보이스: 디트 - 기타
+STRING_CHAT_137	FFFFFF	NULL			채팅창 보이스: 디트 - 기타
+STRING_CHAT_138	FFFFFF	감사			채팅창 보이스: 도로시 - 인사
+STRING_CHAT_139	FFFFFF	천만에요			채팅창 보이스: 도로시 - 인사
+STRING_CHAT_140	FFFFFF	작별			채팅창 보이스: 도로시 - 인사
+STRING_CHAT_141	FFFFFF	NULL			채팅창 보이스: 도로시 - 인사
+STRING_CHAT_142	FFFFFF	NULL			채팅창 보이스: 도로시 - 인사
+STRING_CHAT_143	FFFFFF	깔보기			채팅창 보이스: 도로시 - 감정
+STRING_CHAT_144	FFFFFF	웃음			채팅창 보이스: 도로시 - 감정
+STRING_CHAT_145	FFFFFF	한숨			채팅창 보이스: 도로시 - 감정
+STRING_CHAT_146	FFFFFF	좌절			채팅창 보이스: 도로시 - 감정
+STRING_CHAT_147	FFFFFF	NULL			채팅창 보이스: 도로시 - 감정
+STRING_CHAT_148	FFFFFF	간다!			채팅창 보이스: 도로시 - 전투
+STRING_CHAT_149	FFFFFF	도발			채팅창 보이스: 도로시 - 전투
+STRING_CHAT_150	FFFFFF	성공!			채팅창 보이스: 도로시 - 전투
+STRING_CHAT_151	FFFFFF	トドメだ！			채팅창 보이스: 도로시 - 전투
+STRING_CHAT_152	FFFFFF	NULL			채팅창 보이스: 도로시 - 전투
+STRING_CHAT_153	FFFFFF	흥미없음1			채팅창 보이스: 도로시 - 기타
+STRING_CHAT_154	FFFFFF	흥미없음2			채팅창 보이스: 도로시 - 기타
+STRING_CHAT_155	FFFFFF	여긴 어디?			채팅창 보이스: 도로시 - 기타
+STRING_CHAT_156	FFFFFF	과시			채팅창 보이스: 도로시 - 기타
+STRING_CHAT_157	FFFFFF	비명			채팅창 보이스: 도로시 - 기타
+STRING_CHAT_158	FFFFFF	하이!			채팅창 보이스: 레이 - 인사
+STRING_CHAT_159	FFFFFF	NULL			채팅창 보이스: 레이 - 인사
+STRING_CHAT_160	FFFFFF	NULL			채팅창 보이스: 레이 - 인사
+STRING_CHAT_161	FFFFFF	NULL			채팅창 보이스: 레이 - 인사
+STRING_CHAT_162	FFFFFF	NULL			채팅창 보이스: 레이 - 인사
+STRING_CHAT_163	FFFFFF	웃음1			채팅창 보이스: 레이 - 감정
+STRING_CHAT_164	FFFFFF	웃음2			채팅창 보이스: 레이 - 감정
+STRING_CHAT_165	FFFFFF	좌절			채팅창 보이스: 레이 - 감정
+STRING_CHAT_166	FFFFFF	NULL			채팅창 보이스: 레이 - 감정
+STRING_CHAT_167	FFFFFF	NULL			채팅창 보이스: 레이 - 감정
+STRING_CHAT_168	FFFFFF	이거나 먹어라!			채팅창 보이스: 레이 - 전투
+STRING_CHAT_169	FFFFFF	결정타			채팅창 보이스: 레이 - 전투
+STRING_CHAT_170	FFFFFF	아직…			채팅창 보이스: 레이 - 전투
+STRING_CHAT_171	FFFFFF	성공!			채팅창 보이스: 레이 - 전투
+STRING_CHAT_172	FFFFFF	NULL			채팅창 보이스: 레이 - 전투
+STRING_CHAT_173	FFFFFF	한숨			채팅창 보이스: 레이 - 기타
+STRING_CHAT_174	FFFFFF	승리의 외침			채팅창 보이스: 레이 - 기타
+STRING_CHAT_175	FFFFFF	분함			채팅창 보이스: 레이 - 기타
+STRING_CHAT_176	FFFFFF	NULL			채팅창 보이스: 레이 - 기타
+STRING_CHAT_177	FFFFFF	NULL			채팅창 보이스: 레이 - 기타
+STRING_CHAT_178	FFFFFF	작별			채팅창 보이스: 포이 - 인사
+STRING_CHAT_179	FFFFFF	招待			채팅창 보이스: 포이 - 인사
+STRING_CHAT_180	FFFFFF	오빠!			채팅창 보이스: 포이 - 인사
+STRING_CHAT_181	FFFFFF	NULL			채팅창 보이스: 포이 - 인사
+STRING_CHAT_182	FFFFFF	NULL			채팅창 보이스: 포이 - 인사
+STRING_CHAT_183	FFFFFF	웃음			채팅창 보이스: 포이 - 감정
+STRING_CHAT_184	FFFFFF	토라짐			채팅창 보이스: 포이 - 감정
+STRING_CHAT_185	FFFFFF	좌절			채팅창 보이스: 포이 - 감정
+STRING_CHAT_186	FFFFFF	좋아해			채팅창 보이스: 포이 - 감정
+STRING_CHAT_187	FFFFFF	거부			채팅창 보이스: 포이 - 감정
+STRING_CHAT_188	FFFFFF	성공!			채팅창 보이스: 포이 - 전투
+STRING_CHAT_189	FFFFFF	간다!			채팅창 보이스: 포이 - 전투
+STRING_CHAT_190	FFFFFF	결정타1			채팅창 보이스: 포이 - 전투
+STRING_CHAT_191	FFFFFF	결정타2			채팅창 보이스: 포이 - 전투
+STRING_CHAT_192	FFFFFF	NULL			채팅창 보이스: 포이 - 전투
+STRING_CHAT_193	FFFFFF	놀람			채팅창 보이스: 포이 - 기타
+STRING_CHAT_194	FFFFFF	튕김			채팅창 보이스: 포이 - 기타
+STRING_CHAT_195	FFFFFF	의심			채팅창 보이스: 포이 - 기타
+STRING_CHAT_196	FFFFFF	분함			채팅창 보이스: 포이 - 기타
+STRING_CHAT_197	FFFFFF	기합			채팅창 보이스: 포이 - 기타
+STRING_CHAT_198	FFFFFF	행동 선택			채팅행동창 메인메뉴
+STRING_CHAT_199	FFFFFF	앉기/서기			채팅행동창 행동 1
+STRING_CHAT_200	FFFFFF	줍기			채팅행동창 행동 2
+STRING_CHAT_201	FFFFFF	죽음			채팅행동창 행동 3
+STRING_CHAT_202	FFFFFF	기절			채팅행동창 행동 4
+STRING_CHAT_203	FFFFFF	회피			채팅행동창 행동 5
+STRING_CHAT_204	FFFFFF	피격당함			채팅행동창 행동 6
+STRING_CHAT_205	FFFFFF	제스쳐			채팅행동창 행동 7
+STRING_CHAT_206	FFFFFF	호령			채팅행동창 행동 8
+STRING_CHAT_207	FFFFFF	NULL			채팅행동창 행동 9
+STRING_CHAT_208	FFFFFF	NULL			채팅행동창 행동 10
+STRING_CHAT_209	FF5E00	{0}초 후에 다시 입장할 수 있습니다.			
+STRING_FRIEND_1	FFFFFF	최대 친구 수를 넘었습니다.			친구수가 최대인 상태에서 친구추가 시도 에러
+STRING_FRIEND_2	FFFFFF	친구 추가			친구추가 창 타이틀
+STRING_FRIEND_3	FFFFFF	친구 추가할 밸러의 이름을 입력하세요.			친구추가 창 레이블
+STRING_FRIEND_4	FFFFFF	자기 자신을 친구초대 했습니다.			자신을 친구초대하려고 한 경우 에러
+STRING_FRIEND_5	FFFFFF	{0}의\n친구요청을 수락하시겠습니까?			친구 초대 수락할 것인지 질문
+STRING_FRIEND_6	FFFFFF	{0}님이\n친구수락을 거절 했습니다.			친구 초대 거절 받음
+STRING_FRIEND_7	FFFFFF	친구 메모			친구메모 입력 팝업 제목
+STRING_FRIEND_8	D5E08C	메모를 입력하세요.			친구메모 입력 팝업 레이블
+STRING_FRIEND_9	FFFFFF	<{0}>\n정말로 삭제하시겠습니까?			친구삭제 질문 팝업 레이블
+STRING_FRIEND_10	FFFF00	을\n친구신청 하였습니다.			친구 추가요청
+STRING_FRIEND_11	FFFF00	친구 신청을 거부했습니다.			친구 신청 거절
+STRING_FRIEND_12	FFFF00	해당 캐릭터는\n 접속중인 상태가 아닙니다.			친구 신청한 대상이 없거나 접속하지 않은 경우
+STRING_FRIEND_13	FFFF00	이미 친구로 등록되어 있습니다.			이미 친구다.  
+STRING_FRIEND_14	FF0000	친구요청한 대상이 최대 친구 보유수를 넘었습니다.			 친구요청한 대상이 최대 친구 보유수를 넘었다.
+STRING_FRIEND_15	FF0000	삭제 요청한 대상이 친구가 아닙니다.			삭제 요청한 대상이 친구가 아니다.
+STRING_FRIEND_16	FF0000	삭제 요청한 정보가 잘못 되었습니다.			삭제 요청한 정보가 잘못 되었다.
+STRING_FRIEND_17	FF0000	친구 삭제 실패했습니다			친구 삭제 실패
+STRING_FRIEND_18	FF0000	친구 정보가 없어서 메모를 기록할 수 없습니다.			친구 정보가 없어서 메모를 기록할수 없다.
+STRING_FRIEND_19	FFFF00	을\n 친구로 등록하였습니다.			친구 추가
+STRING_FRIEND_20	FFFFFF	친구추가			친구추가 버튼 레이블
+STRING_FRIEND_21	C7CF81	이름			이름 레이블
+STRING_FRIEND_22	C7CF81	레벨			레벨 레이블
+STRING_FRIEND_23	C7CF81	메모			메모 레이블
+STRING_FRIEND_24	C7CF81	접속 친구만 표시			접속 친구 표시 체크박스 레이블
+STRING_FRIEND_25	C7CF81	친구			친구 탭 타이틀
+STRING_FRIEND_26	FFFFFF	친구 삭제			일반 유저 마우스 우클릭 메뉴 - 친구 삭제
+STRING_FRIEND_27	FFFFFF	친구 메모			일반 유저 마우스 우클릭 메뉴 - 친구 메모
+STRING_FRIEND_28	FFFFFF	친구 추가			유저 마우스 우클릭 메뉴 - 친구 추가
+STRING_FRIEND_29	FF0000	(친구) <{0}>님이 로그인했습니다.			
+STRING_FRIEND_30	FF0000	(친구) <{0}>님이 로그아웃했습니다.			
+STRING_PARTY_1	FF0000	<{0}>님은 접속 중이 아닙니다.			접속중이 아닌 상대에게 파티신청
+STRING_PARTY_2	DB0000	자기자신은 초대할 수 없습니다.			자기자신을 파티초대
+STRING_PARTY_3	DB0000	다른 캐릭터에게 파티 초대받고 있습니다.			다른 캐릭터에게 파티초대받는 상황(채팅창)
+STRING_PARTY_4	DB0000	다른 캐릭터에게\n파티 초대받고 있습니다.			다른 캐릭터에게 파티초대받는 상황(팝업)
+STRING_PARTY_5	DB0000	{0}님은 다른 파티에 가입되어 있습니다.			파티중
+STRING_PARTY_6	DB0000	파티정보를 찾을 수 없습니다.			파티 정보를 찾을 수 없다(채팅창)
+STRING_PARTY_7	DB0000	파티정보를\n찾을 수 없습니다.			파티 정보를 찾을 수 없다(팝업)
+STRING_PARTY_8	DB0000	파티장이 아닙니다.			파티장이 아니다
+STRING_PARTY_9	DB0000	파티원이 가득 찼습니다.			파티원이 가득 찼다
+STRING_PARTY_10	DB0000	파티원이 아닙니다.			 파티원이 아니다
+STRING_PARTY_11	DB0000	파티 생성에 실패하였습니다.			파티 생성 실패
+STRING_PARTY_12	DB0000	이전과 동일한 분배방식입니다.			이전과 동일한 분배방식
+STRING_PARTY_13	DB0000	이전과 동일한 파티장입니다.			이전과 동일한 파티장
+STRING_PARTY_14	DB0000	파티가 아니라 인던에 입장이 불가능합니다.			파티가 아니라 인던에 입장이 불가능하다.
+STRING_PARTY_15	DB0000	파티 초대를 거절하였습니다.			자신이 파티초대를 거절
+STRING_PARTY_16	1DDB16	{0}님이 파티에 합류하였습니다.			파티에 합류
+STRING_PARTY_17	DB0000	파티가 해체되었습니다.			파티 해체
+STRING_PARTY_18	DB0000	파티에서 제외되었습니다.			자신이 파티에서 추방됨
+STRING_PARTY_19	DB0000	파티를 탈퇴하였습니다.			자신이 파티에서 탈퇴함
+STRING_PARTY_20	DB0000	{0}님이 파티에서 추방되었습니다.			다른사람이 파티에서 추방됨
+STRING_PARTY_21	DB0000	{0}님이 파티를 떠났습니다.			다른사람이 파티에서 탈퇴함
+STRING_PARTY_22	1DDB16	파티장으로 위임되었습니다.			자신이 새 파티장으로 위임됨
+STRING_PARTY_23	1DDB16	파티장을 위임하였습니다.			자신이 다른사람을 새 파티장으로 위임함
+STRING_PARTY_24	1DDB16	{0}님이 파티장으로 위임되었습니다.			다른 사람이 새 파티장으로 위임됨
+STRING_PARTY_25	DB0000	{0}님이 파티 초대를 거절 하셨습니다.			다른 사람이 파티초대를 거절(채팅창)
+STRING_PARTY_26	DB0000	{0}님이 파티 초대를\n거절 하셨습니다.			다른 사람이 파티초대를 거절(팝업)
+STRING_PARTY_27	DB0000	“{0}”님은 요청을 받을 수 없는 상태입니다.			상대가 믹스/강화/거래/NPC 상점 사용 중이라 초대불가
+STRING_PARTY_28	FFFFFF	{0}님이 파티에 초대하셨습니다.\n수락하시겠습니까?			파티 초대받았을 때 팝업 메시지
+STRING_PARTY_29	FFFFFF	수락			파티 초대받았을 때 팝업 수락 버튼
+STRING_PARTY_30	FFFFFF	거절			파티 초대받았을 때 팝업 거절 버튼
+STRING_PARTY_31	FFFFFF	파티 탈퇴			파티 팝업창 탈퇴 레이블
+STRING_PARTY_32	FFFFFF	파티장 위임			파티 팝업창 위임 레이블
+STRING_PARTY_33	FFFFFF	파티 추방			파티 팝업창 추방 레이블
+STRING_PARTY_34	FFFFFF	파티 초대			파티 팝업창 초대 레이블
+STRING_PARTY_35	FF0000	파티 초대 권한이 없습니다.			파티장이 아닌데 파티 초대 시도 에러
+STRING_PARTY_36	FFFF00	파티 분배 방식이 '자유 분배'로 변경되었습니다.			파티 분배방식이 자유 분배로 변경
+STRING_PARTY_37	FFFF00	파티 분배 방식이 '랜덤 분배'로 변경되었습니다.			파티 분배방식이 랜덤 분배로 변경
+STRING_PARTY_38	FFFF00	파티 분배 방식이 '순차 분배'로 변경되었습니다.			파티 분배방식이 순차 분배로 변경
+STRING_PARTY_39	FFFFFF	파티 초대			일반 유저 마우스 우클릭 메뉴 - 파티 초대
+STRING_PARTY_40	FFFFFF	자유 분배			마우스 우클릭 메뉴 - 경험치 자유 분배
+STRING_PARTY_41	FFFFFF	랜덤 분배			마우스 우클릭 메뉴 - 경험치 랜덤 분배
+STRING_PARTY_42	FFFFFF	순차 분배			마우스 우클릭 메뉴 - 경험치 순차 분배
+STRING_PARTY_43	FFFFFF	파티 탈퇴			마우스 우클릭 메뉴 - 파티 탈퇴
+STRING_PARTY_44	FFFFFF	분배 방식			마우스 우클릭 메뉴 - 분배 방식
+STRING_PARTY_45	FFFFFF	파티장 위임			마우스 우클릭 메뉴 - 파티장 위임
+STRING_PARTY_46	FFFFFF	파티 추방			마우스 우클릭 메뉴 - 파티 추방
+STRING_PARTY_47	76E509	NULL		14	파티창 파티 밸러 이름 폰트 (문자열 미사용)
+STRING_PARTY_48	FFFFFF	NULL		12	파티창 파티 밸러 레벨 폰트 (문자열 미사용)
+STRING_PARTY_49	FFFFFF	NULL		11	파티창 파티 밸러 HP/MP 숫자 폰트 (문자열 미사용)
+STRING_MIX_1	FFFFFF	믹스			믹스 버튼/타이틀 레이블
+STRING_MIX_2	FFFFFF	기본 레벨 미만의 헨치는\n믹스 실패 시 파괴될 수 있습니다.\n\n믹스를 진행하시겠습니까?			믹스 경고 메시지(팝업)
+STRING_MIX_3	FFFFFF	두 개 헨치 모두\n파괴 되었습니다.			믹스 실패창 레이블
+STRING_MIX_4	FFFFFF	{0}\n헨치가 파괴되었습니다.			믹스 실패창 레이블
+STRING_MIX_5	FFFFFF	{0}\n헨치가 레벨이 {1} 하락하였습니다.			믹스 실패창 레이블
+STRING_MIX_6	FFFFFF	두 개 헨치\n모두 석화되었습니다.			믹스 실패창 레이블
+STRING_MIX_7	FFFFFF	{0}\n헨치가 석화되었습니다.			믹스 실패창 레이블
+STRING_MIX_8	FFFFFF	믹스를 실패하였습니다.			믹스 실패창 레이블
+STRING_MIX_9	FFFFFF	믹스를 시도할 헨치를 믹스창에\n드래그하여 올려 놓으세요.			믹스창 메시지
+STRING_MIX_10	FFFFFF	믹스를 할 수 없는 코어입니다.			믹스창 메시지
+STRING_MIX_11	FFFFFF	서로 믹스를 할 수 없는 조합입니다.			믹스창 메시지
+STRING_MIX_12	FFFFFF	믹스 비용이 부족하여 믹스를 시작할 수 없습니다.			믹스창 메시지
+STRING_MIX_13	FFFFFF	믹스 버튼을 누르면 믹스를 진행합니다.			믹스창 메시지
+STRING_MIX_14	FFFFFF	헨치가 석화상태입니다.\n헨치를 회생시킨 후 믹스가 가능합니다.			믹스창 메시지
+STRING_MIX_15	FFFFFF	믹스 실패			믹스 실패창 타이틀
+STRING_MIX_16	FFFFFF	아래의 헨치 중 하나로 믹스됩니다			아래의 헨치 중 하나로 믹스됩니다
+STRING_MIX_17	FFFFFF	(선택사항) 믹스용 아이템 추가			(선택사항) 믹스용 아이템 추가
+STRING_MIX_18	259CCE	믹스결과		20	믹스 결과창 타이틀
+STRING_MIX_19	FEEABC	믹스성공률			믹스성공률 레이블
+STRING_MIX_20	FEEABC	믹스비용			믹스비용 레이블
+STRING_MIX_21	75777B	NULL		14	믹스 결과창 - 헨치 성격 폰트 (문자열 미사용)
+STRING_MIX_22	76E509	NULL		16	믹스 결과창 - 헨치 이름 폰트 (문자열 미사용)
+STRING_QUEST_1	259CCE	메인		14	퀘스트 종류 - 메인
+STRING_QUEST_2	C6C6C6	일반		14	퀘스트 종류 - 일반
+STRING_QUEST_3	A566FF	반복			퀘스트 종류 - 반복
+STRING_QUEST_4	FFFFFF	수락			NPC 대화 - 퀘스트 수락 버튼
+STRING_QUEST_5	FFFFFF	완료			NPC 대화 - 퀘스트 완료 버튼
+STRING_QUEST_6	FFFFFF	확인			NPC 대화 - 퀘스트 확인 버튼
+STRING_QUEST_7	FFFFFF	미완료상태			NPC 대화 - 퀘스트 미완료상태 버튼
+STRING_QUEST_8	FF5E00	퀘스트 추적은 한번에 10개 까지 가능합니다.			퀘스트 추적 최대 개수 에러
+STRING_QUEST_9	FFFFFF	정말<{0}> 퀘스트를 포기하겠습니까?			퀘스트 포기할거냐고 질문(팝업)
+STRING_QUEST_10	FFFFFF	 {0} 완료!!			퀘스트 완료 팝업 레이블
+STRING_QUEST_11	FFFFFF	닫기			NPC 대화 - 닫기 버튼
+STRING_QUEST_12	DEF698	목표			NPC 대화 - 목표 레이블
+STRING_QUEST_13	DEF698	보상			NPC 대화 - 보상 레이블
+STRING_QUEST_14	FFFFFF	포기			퀘스트정보창 포기 버튼
+STRING_QUEST_15	FFFFFF	추적			퀘스트정보창 추적 버튼
+STRING_QUEST_16	0B141E	퀘스트 정보	BusanBada	20	퀘스트정보창 타이틀
+STRING_QUEST_17	FFFFFF	퀘스트 포기			퀘스트 포기 팝업 타이틀
+STRING_QUEST_18	FF5E00	[주의] 해당 퀘스트 관련\n 아이템은 모두 삭제됩니다.			퀘스트 포기 팝업 경고 문구
+STRING_QUEST_19	DCED95	제목			퀘스트정보창 제목 레이블
+STRING_QUEST_20	076dd6	보상	BusanBada	14	퀘스트정보창 진행 퀘스트 보상 레이블
+STRING_QUEST_21	076dd6	퀘스트 내용	BusanBada	14	퀘스트정보창 진행 퀘스트 내용 레이블
+STRING_QUEST_22	076dd6	퀘스트 목표	BusanBada	14	퀘스트정보창 진행 퀘스트 목표 레이블
+STRING_QUEST_23	FFFFFF	획득 가능한 보상이 없습니다.		14	퀘스트정보창 진행 퀘스트 보상 없음 레이블
+STRING_QUEST_24	5CD1E5	수행중인 퀘스트			퀘스트정보창 진행퀘스트 탭 제목
+STRING_QUEST_25	5CD1E5	완료한 퀘스트			퀘스트정보창 완료퀘스트 탭 제목
+STRING_QUEST_26	76E509	문자열 변수	BusanBada	16	퀘스트 맵 이름 폰트 (문자열 미사용)
+STRING_QUEST_27	76E509	문자열 변수	BusanBada	17	선택한 퀘스트 제목 폰트  (문자열 미사용)
+STRING_QUEST_28	EEEEEE	문자열 변수		13	퀘스트 목표, 내용 폰트 (문자열 미사용)
+STRING_QUEST_29	EEEEEE	문자열 변수	BusanBada	12	보상경험치, GP 숫자 폰트 (문자열 미사용)
+STRING_SKILL_1	FFFFFF	지속 시간 : {0}			스킬 툴팁 - 버프 지속 시간 문자열
+STRING_SKILL_2	FFFFFF	<{0}단계>\n			스킬 툴팁 - 스킬 레벨
+STRING_SKILL_3	FFFFFF	재사용시간 [ffff00]{0}초[-]\n			스킬 툴팁 - 쿨타임
+STRING_SKILL_4	FFFFFF	소모MP [ffff00]{0}[-]			스킬 툴팁 - 소모 MP
+STRING_SKILL_5	FFFFFF	액티브			스킬 활성화 타입 - 액티브
+STRING_SKILL_6	FFFFFF	패시브			스킬 활성화 타입 - 패시브
+STRING_SKILL_7	FFFFFF	무기를 장착해야 스킬을 사용할 수 있습니다.			무기를 장착해야 스킬을 사용할 수 있습니다.
+STRING_SKILL_8	FF0000	해당 스킬을 사용할 수 없습니다.			해당 스킬을 사용할 수 없습니다.
+STRING_SKILL_9	FF0000	소모 HP가 부족합니다.			소모 HP가 부족합니다.
+STRING_SKILL_10	FF0000	소모 MP가 부족합니다.			소모 MP가 부족합니다.
+STRING_SKILL_11	FF0000	소모 아이템 개수가 부족합니다.			소모 아이템 개수가 부족합니다.
+STRING_SKILL_12	FFFFFF	스킬			스킬창 타이틀
+STRING_SKILL_13	FFFFFF	밸러			스킬창 밸러 탭 제목
+STRING_SKILL_14	FFFFFF	직접 사용 스킬			밸러 스킬 직접 사용 스킬 레이블
+STRING_SKILL_15	FFFFFF	지속 효과 스킬			밸러 스킬 지속 효과 스킬 레이블
+STRING_SKILL_16	FFFFFF	기본 스킬			밸러 스킬 기본 스킬 레이블
+STRING_SKILL_17	FFEDA6	검술			디트 스킬창 - 검술
+STRING_SKILL_18	FFEDA6	암행			디트 스킬창 - 암행
+STRING_SKILL_19	FFEDA6	정신수련			디트 스킬창 - 정신수련
+STRING_SKILL_20	FFEDA6	신비술			도로시 스킬창 - 신비술
+STRING_SKILL_21	FFEDA6	신성술			도로시 스킬창 - 신성술
+STRING_SKILL_22	FFEDA6	환기술			도로시 스킬창 - 환기술
+STRING_SKILL_23	FFEDA6	총기			포이 스킬창 - 총기
+STRING_SKILL_24	FFEDA6	폭파			포이 스킬창 - 폭파
+STRING_SKILL_25	FFEDA6	특수전			포이 스킬창 - 특수전
+STRING_SKILL_26	FFEDA6	광전사			레이 스킬창 - 광전사
+STRING_SKILL_27	FFEDA6	수호자			레이 스킬창 - 수호자
+STRING_SKILL_28	FFEDA6	심판자			레이 스킬창 - 심판자
+STRING_BOOK_1	FFFFFF	모든 헨치 보기			 모든 헨치 보기
+STRING_BOOK_2	FFFFFF	수집한 헨치보기			수집한 헨치보기
+STRING_BOOK_3	FFFFFF	특수문자, 띄어쓰기 포함 시에는\n 검색이 불가능 합니다.			검색시 특수문자가 있을 때 에러(팝업)
+STRING_BOOK_4	FFFFFF	[0000FF]{0}[-] 헨치가 [FF00AA]{1}[-] 헨치로 진화 했습니다.			헨치 진화 메시지(팝업)
+STRING_BOOK_5	FFFFFF	헨치도감			헨치도감 패널 타이틀
+STRING_BOOK_6	FFFFFF	전체			전체 상수 문자열
+STRING_BOOK_7	FFFFFF	헨치명			헨치명 상수 문자열
+STRING_BOOK_8	259CCE	서식지			서식지 문자열
+STRING_BOOK_9	FFFFFF	레벨			레벨 콤보 박스 문자열
+STRING_BOOK_10	FFFFFF	성격			성격 문자열
+STRING_BOOK_11	FFFFFF	헨치외형			헨치외형
+STRING_BOOK_12	259CCE	헨치이야기			헨치이야기
+STRING_BOOK_13	FFFFFF	사용중인 도감 스킬			사용중인 도감 스킬
+STRING_BOOK_14	259CCE	헨치능력치			헨치능력치
+STRING_BOOK_15	259CCE	보유스킬			보유스킬
+STRING_BOOK_16	259CCE	믹스공식			믹스공식
+STRING_BOOK_17	FFFFFF	성장가능레벨			성장 가능 레벨
+STRING_BOOK_18	FFFFFF	물리 공격력			물리 공격력
+STRING_BOOK_19	FFFFFF	마법 공격력			마법 공격력
+STRING_BOOK_20	FFFFFF	물리 방어력			물리 방어력
+STRING_BOOK_21	FFFFFF	마법 방어력			마법 방어력
+STRING_BOOK_22	FFFFFF	명   중   도			명 중
+STRING_BOOK_23	FFFFFF	회   피   도			회 피
+STRING_BOOK_24	FFFFFF	치 명 타 율			치명타율
+STRING_BOOK_25	75777B	근거리 공격형			헨치 공격 타입 - 근거리 공격형
+STRING_BOOK_26	75777B	원거리 공격형			헨치 공격 타입 - 원거리 공격형
+STRING_BOOK_27	75777B	부유형			헨치 공격 타입 - 부유형
+STRING_BOOK_28	FFFFFF	내가 수집한 헨치만 보기			내가 수집한 헨치만 보기
+STRING_INVEN_1	FFFFFF	창고 이용중엔 아이템을 버릴 수 없습니다.			창고 이용중 아이템 버리기 시도
+STRING_INVEN_2	FFFFFF	개인상점 이용중엔 아이템을 버릴 수 없습니다.			개인상점 이용중 아이템 버리기 시도
+STRING_INVEN_3	FFFFFF	를 버리시겠습니까?\n\n주의!! 버린 아이템은 복구되지 않습니다.			아이템을 정말 버릴 것인가 질문
+STRING_INVEN_4	FF0000	이 아이템은 버릴 수 없습니다.			못버리는 아이템을 버리려고 시도
+STRING_INVEN_5	0F0F0F	장착중이거나 퀵슬롯에 등록한 아이템은 나눌수 없습니다.			장착중이거나 퀵슬롯에 등록된 아이템을 나누려고 시도
+STRING_INVEN_6	0F0F0F	나눌수 없는 아이템입니다.			나눌 수 없는 아이템을 나누려고 시도
+STRING_INVEN_7	0F0F0F	더이상 나눌 수 없습니다.			아이템 1개를 나누려고 시도
+STRING_INVEN_8	FFFFFF	아이템을 몇 개로 나누겠습니까?			인벤 아이템 분할창 메시지
+STRING_INVEN_9	FFFFFF	아이템 나누기			인벤 아이템 분할창 제목
+STRING_INVEN_10	0F0F0F	가방에 공간이 부족하여 아이템 나누기를 할 수 없습니다.			인벤이 꽉 차서 나누기를 못함
+STRING_INVEN_11	FF0000	가방의 공간이 부족합니다.			인벤토리 슬롯이 꽉 찼다
+STRING_INVEN_12	FF0000	밸러의 레벨이 부족하여 <아이템> 아이템을 사용할 수 없습니다			레벨이 낮다
+STRING_INVEN_13	FF0000	이미 모든 가방이 열려있습니다.			 모든 가방이 이미 열려있다.
+STRING_INVEN_14	FF0000	이미 가방 2번 탭이 열려있습니다.			캐시 1번텝 이미 열려있다.(인벤토리)
+STRING_INVEN_15	FF0000	이미 가방 3번 탭이 열려있습니다.			캐시 2번텝 이미 열려있다.(인벤토리)
+STRING_INVEN_16	FF0000	이미 가방 4번 탭이 열려있습니다.			캐시 3번텝 이미 열려있다.(인벤토리)
+STRING_INVEN_17	FF0000	헨치를 클릭하세요.			헨치를 클릭하세요.
+STRING_INVEN_18	FF0000	죽은 헨치를 클릭하세요.			죽은 헨치를 클릭하세요.
+STRING_INVEN_19	FF0000	살아있는 헨치를 클릭하세요.			살아있는 헨치를 클릭하세요.
+STRING_INVEN_20	FF0000	인벤에 있는 헨치만 변화할 수 있습니다.			인벤에 있는 헨치만 변화가 가능합니다.
+STRING_INVEN_21	FFFFFF	버리기			버리기 버튼 툴팁
+STRING_INVEN_22	FFFFFF	나누기			나누기 버튼 툴팁
+STRING_INVEN_23	FF0000	해당 가방 탭은 사용 할 수 없습니다.			열리지 않은 탭 클릭시 에러(채팅창)
+STRING_INVEN_24	FF0000	인벤토리에 있는 아이템을 클릭하세요.			인벤토리에 있는 아이템을 클릭하세요
+STRING_INVEN_25	FF0000	보호되는 아이템은 버릴 수 없습니다.			보호되는 아이템은 버릴 수 없습니다.
+STRING_INVEN_26	FFFF00	헨치 퀵슬롯의 1 ~ 3번까지는 스킬아이콘 전용이므로 아이템을 등록할 수 없습니다.			헨치 퀵슬롯에 아이템 등록 시도 에러
+STRING_INVEN_27	FFFFFF	이미 동일한 종류의 효과가\n적용중입니다.\n효과를 덮어씌우시겠습니까?			버프 아이템 중복 사용시 질문(팝업)
+STRING_INVEN_28	FF0000	거래중에는 아이템을 획득할 수 없습니다.			아이템 줍기 실패 - 거래 중에 줍기 시도
+STRING_INVEN_29	FF0000	아이템을 찾을 수 없습니다.			아이템 줍기 실패 - 정의되지 않은 아이템 줍기 시도
+STRING_INVEN_30	FF0000	아이템 습득 거리가 너무 멉니다.			아이템 줍기 실패 - 너무 먼 거리에 있는 아이템 줍기 시도
+STRING_INVEN_31	FF0000	획득 권한이 없습니다.			아이템 줍기 실패 - 획득 권한이 없는 아이템 줍기 시도
+STRING_INVEN_32	FF0000	최대 소지금액을 초과했습니다.			최대 소지금액 초과
+STRING_INVEN_33	FFFFFF	아이템 제작 완료			아이템 제작 완료 팝업 레이블
+STRING_INVEN_34	FF0000	이동 할 맵을 클릭하세요			워프머신 - 이동 할 맵을 클릭하세요
+STRING_INVEN_35	FFFFFF	{0}(으)로\n이동 하시겠습니까?			워프머신 - 이동하시겠습니까?(팝업)
+STRING_INVEN_36	FF0000	이미 같은 맵에 있습니다.			워프머신 - 이미 해당 맵에 있다.
+STRING_INVEN_37	FF0000	현재 지역에서는 NPC를 통해서만 다른 지역으로 이동할 수 있습니다.			워프머신 - NPC를 통해서만 다른 지역으로 이동할 수 있다
+STRING_INVEN_38	FF0000	워프 머신 아이템 사용 실패.			워프머신 - 사용 실패
+STRING_INVEN_39	FF0000	{0} 아이템의 보호가 해제 되었습니다.			아이템 보호해제됨
+STRING_INVEN_40	FF0000	{0} 아이템이 보호 되었습니다.			아이템 보호됨
+STRING_INVEN_41	FFFFFF	기본 가방탭이			인벤 탭 오픈 상태 변경 - 기본 가방탭 접두어
+STRING_INVEN_42	FFFFFF	2번 가방탭이			인벤 탭 오픈 상태 변경 - 2번 가방탭 접두어
+STRING_INVEN_43	FFFFFF	3번 가방탭이			인벤 탭 오픈 상태 변경 - 3번 가방탭 접두어
+STRING_INVEN_44	FFFFFF	4번 가방탭이			인벤 탭 오픈 상태 변경 - 4번 가방탭 접두어
+STRING_INVEN_45	FFFFFF	기본 창고탭이			인벤 탭 오픈 상태 변경 - 기본 창고탭 접두어
+STRING_INVEN_46	FFFFFF	2번 창고탭이			인벤 탭 오픈 상태 변경 - 2번 창고탭 접두어
+STRING_INVEN_47	FFFFFF	3번 창고탭이			인벤 탭 오픈 상태 변경 - 3번 창고탭 접두어
+STRING_INVEN_48	FFFFFF	4번 창고탭이			인벤 탭 오픈 상태 변경 - 4번 창고탭 접두어
+STRING_INVEN_49	FFFFFF	닫혔습니다.			인벤 탭 오픈 상태 변경 - 탭이 닫혔을 때 접미어
+STRING_INVEN_50	FFFFFF	열렸습니다.			인벤 탭 오픈 상태 변경 - 탭이 열렸을 때 접미어
+STRING_INVEN_51	FF0000	헨치 부활 아이템 사용 실패.			헨치 부활 아이템 사용 실패
+STRING_INVEN_52	FF0000	같은 성격입니다.			컨버터 아이템 사용 실패 - 같은 성격
+STRING_INVEN_53	FF0000	컨버터 아이템은 헨치에게만 사용할 수 있습니다.			컨버터 아이템 사용 실패 - 헨치가 아닌 것에 사용
+STRING_INVEN_54	FF0000	석화된 헨치에게는 사용할 수 없습니다.			컨버터 아이템 사용 실패 - 석화된 헨치에게 사용
+STRING_INVEN_55	FF0000	헨치 성격변화 아이템 사용 실패.			컨버터 아이템 사용 실패
+STRING_INVEN_56	FFFFFF	[0000FF]{0}[-]헨치 성격이 [FF00AA]{1}[-]에서 [FF00AA]{2}[-]성격으로 변경되었습니다			컨버터 아이템 사용 성공
+STRING_INVEN_57	FF0000	개인 상점 이용중엔 아이템을 이동 할 수 없습니다.			개인 상점 이용 중 아이템 이동 시도 에러
+STRING_INVEN_58	FF0000	워프 머신 이용중엔 아이템을 이동 할 수 없습니다.			워프 머신 이용 중 아이템 이동 시도 에러
+STRING_INVEN_59	FF0000	창고 보관 불가 아이템 입니다.			창고 보관 불가 아이템을 창고로 이동 시도 에러
+STRING_INVEN_60	FF0000	밸러의 레벨이 낮아 헨치를 소환할 수 없습니다.			레벨이 낮아서 헨치 소환 실패 에러
+STRING_INVEN_61	FF0000	<{0}>아이템은 해당 밸러가 착용할 수 없습니다.			클래스가 맞지 않아 장비 장착 실패 에러
+STRING_INVEN_62	FF0000	밸러의 레벨이 부족하여 <{0}> 아이템을 사용할 수 없습니다.			레벨이 낮아서 아이템 사용 실패 에러
+STRING_INVEN_63	FF0000	밸러의 레벨이 부족하여 <{0}> 아이템을 장착할 수 없습니다.			레벨이 낮아서 아이템 장착 실패 에러
+STRING_INVEN_64	FF0000	개인 상점 이용중엔 아이템을 사용 할 수 없습니다.			개인 상점 이용 중 아이템 사용 시도 에러
+STRING_INVEN_65	FF0000	워프 머신 이용중엔 아이템을 사용 할 수 없습니다.			워프 머신 이용 중 아이템 사용 시도 에러
+STRING_INVEN_66	FF0000	죽은 헨치는 소환할 수 없습니다. 먼저 헨치를 부활시켜야 합니다.			죽은 헨치 소환 시도 에러
+STRING_INVEN_67	FF0000	헨치의 레벨이 부족하여 <{0}> 아이템을 사용할 수 없습니다			헨치 레벨이 낮아서 헨치 아이템 사용 실패
+STRING_INVEN_68	FF0000	헨치의 레벨이 부족하여 <{0}> 아이템을 장착할 수 없습니다			헨치 레벨이 낮아서 헨치 아이템 장착 실패
+STRING_INVEN_69	FFFFFF	'[FFFFFF]{0} {1}성[-]' [0000FF]헨치[ffff00] 습득.			1등급 헨치 습득 메시지
+STRING_INVEN_70	FFFFFF	'[ffffff]{0}[-]'님이 '[FFFFFF]{1} {2}성[-]' [0000FF]헨치[ffff00] 습득.			1등급 헨치 습득 파티 메시지
+STRING_INVEN_71	FFFFFF	'[00CED1]{0} {1}성[-]' [0000FF]헨치[ffff00] 습득.			2등급 헨치 습득 메시지
+STRING_INVEN_72	FFFFFF	'[ffffff]{0}[-]'님이 '[00CED1]{1} {2}성[-]' [0000FF]헨치[ffff00] 습득.			2등급 헨치 습득 파티 메시지
+STRING_INVEN_73	FFFFFF	'[00FF00]{0} {1}성[-]' [0000FF]헨치[ffff00] 습득.			3등급 헨치 습득 메시지
+STRING_INVEN_74	FFFFFF	'[ffffff]{0}[-]'님이 '[00FF00]{1} {2}성[-]' [0000FF]헨치[ffff00] 습득.			3등급 헨치 습득 파티 메시지
+STRING_INVEN_75	FFFFFF	'[FFFF00]{0} {1}성[-]' [0000FF]헨치[ffff00] 습득.			4등급 헨치 습득 메시지
+STRING_INVEN_76	FFFFFF	'[ffffff]{0}[-]'님이 '[FFFF00]{1} {2}성[-]' [0000FF]헨치[ffff00] 습득.			4등급 헨치 습득 파티 메시지
+STRING_INVEN_77	FFFFFF	'[FF8C00]{0} {1}성[-]' [0000FF]헨치[ffff00] 습득.			5등급 헨치 습득 메시지
+STRING_INVEN_78	FFFFFF	'[ffffff]{0}[-]'님이 '[FF8C00]{1} {2}성[-]' [0000FF]헨치[ffff00] 습득.			5등급 헨치 습득 파티 메시지
+STRING_INVEN_79	FFFFFF	'[95B3D7]{0} 고급[-]' [ffff00]장비 습득.[-]			고급 장비 습득 메시지
+STRING_INVEN_80	FFFFFF	'[ffffff]{0}[-]'님이 '[95B3D7]{1} 고급[-]' [ffff00]장비 습득.[-]			고급 장비 습득 파티 메시지
+STRING_INVEN_81	FFFFFF	'[00ff00]{0} 희귀[-]' [ffff00]장비 습득.[-]			희귀 장비 습득 메시지
+STRING_INVEN_82	FFFFFF	'[ffffff]{0}[-]'님이 '[00ff00]{1} 희귀[-]' [ffff00]장비 습득.[-]			희귀 장비 습득 파티 메시지
+STRING_INVEN_83	FFFFFF	'[FFFF00]{0} 영웅[-]' [ffff00]장비 습득.[-]			영웅 장비 습득 메시지
+STRING_INVEN_84	FFFFFF	'[ffffff]{0}[-]'님이 '[FFFF00]{1} 영웅[-]' [ffff00]장비 습득.[-]			영웅 장비 습득 파티 메시지
+STRING_INVEN_85	FFFFFF	'[FF8C00]{0} 전설[-]' [ffff00]장비 습득.[-]			전설 장비 습득 메시지
+STRING_INVEN_86	FFFFFF	'[ffffff]{0}[-]'님이 '[FF8C00]{1} 전설[-]' [ffff00]장비 습득.[-]			전설 장비 습득 파티 메시지
+STRING_INVEN_87	FFFFFF	'[ffffff]{0} {1}개[-]' 습득.			일반 아이템 습득 메시지
+STRING_INVEN_88	FFFFFF	'[ffffff]{0}[-]'님이 '[ffffff]{1} {2}개[-]' 습득.			일반 아이템 습득 파티 메시지
+STRING_INVEN_89	FFFFFF	'[FFFF00]{0}[-]'님이 '[FFFF00]{1}[-]'(을)를 습득 하셨습니다.			 아이템 습득 전체 공지
+STRING_INVEN_90	FFFF00	수령할 아이템이 없습니다.			수령할 이벤트 아이템 없음(팝업)
+STRING_INVEN_91	FFFFFF	수령할 아이템이 있습니다.			수령할 아이템이 있습니다.
+STRING_INVEN_92	FFFFFF	({0} {1}개)			수령할 이벤트 아이템 이름/개수
+STRING_INVEN_93	FFFFFF	아이템을 수령하시겠습니까?			아이템을 수령하시겠습니까?
+STRING_INVEN_94	FFFFFF	수령			이벤트 아이템 팝업 수령 버튼 레이블
+STRING_INVEN_95	FFFFFF	거절			이벤트 아이템 팝업 거절 버튼 레이블
+STRING_INVEN_96	FFFF00	가방의 공간이 부족합니다.\n가방의 공간을 확보후에\n 다시 수령해주세요.			인벤토리 공간이 모자라서 이벤트 아이템 수령 불가(팝업)
+STRING_INVEN_97	FFFF00	최대 소지 금액을 넘습니다.\n금액을 비우고\n 다시 수령해주세요			최대 소지금액 초과로 이벤트 아이템 수령 불가(팝업)
+STRING_INVEN_98	FFFF00	아이템을 수령하였습니다.			이벤트 아이템 수령 완료(팝업)
+STRING_INVEN_99	FFFF00	아이템을 수령하였습니다.\n \n수령받을 남은 아이템이 있습니다.			아직 수령 받을 이벤트 아이템이 더 있다.(팝업)
+STRING_INVEN_100	FFFFFF	아이템 버리기			아이템 버리기 팝업 타이틀
+STRING_INVEN_101	F6E0AE	GP를 입력해 주세요			인벤토리 입출금 팝업 - GP를 입력해 주세요
+STRING_INVEN_102	F6E0AE	개당 금액 가격			인벤토리 입출금 팝업 - 개당 금액 가격
+STRING_INVEN_103	0B141E	인벤토리	Typo_FactoryB	20	인벤토리 패널 타이틀
+STRING_INVEN_104	3DB7CC	가방 1			1번 가방 탭 이름
+STRING_INVEN_105	3DB7CC	가방 2			2번 가방 탭 이름
+STRING_INVEN_106	3DB7CC	가방 3			3번 가방 탭 이름
+STRING_INVEN_107	3DB7CC	가방 4			4번 가방 탭 이름
+STRING_INVEN_108	FEEABC	아이템 제작 중......			아이템 제작 진행 바 문자열
+STRING_INVEN_109	FFFFFF	제작			아이템 제작 버튼 레이블
+STRING_INVEN_110	FFFFFF	아이템 제작			아이템 제작 패널 타이틀
+STRING_INVEN_111	FFFFFF	워프 머신			워프 머신 팝업 타이틀
+STRING_INVEN_112	D7B681	제작도면			아이템 제작 - 제작도면 
+STRING_INVEN_113	D7B681	완성 아이템			아이템 제작 - 완성 아이템
+STRING_INVEN_114	8E6D49	재료아이템			아이템 제작 - 재료 아이템
+STRING_INVEN_115	8E6D49	보유/필요			아이템 제작 - 보유/필요
+STRING_INVEN_116	FF0000	진화할 헨치를 클릭하세요.			헨치 이외의 아이템을 클릭했을 경우
+STRING_INVEN_117	FF0000	진화 헨치를 클릭하세요.			진화 가능하지 않은 헨치를(비 진화헨치) 클릭했을 경우
+STRING_INVEN_118	FF0000	헨치를 더 성장시키세요.			진화 가능 레벨을 충족하지 못한 진화 헨치를 클릭했을 경우
+STRING_INVEN_119	FF0000	헨치 진화에 실패했습니다.			헨치 진화 예외처리
+STRING_INVEN_120	FFFFFF	이미 효과가\n적용중입니다.\n효과를 덮어씌우시겠습니까?			비슷한 버프 아이템 중복 사용시 질문(팝업)
+STRING_INVEN_121	FF0000	헨치의 코어 아이템에만 사용할 수 있습니다.			진화의 성수 아이템 사용 실패 - 헨치가 아닌 것에 사용
+STRING_INVEN_122	FF0000	헨치 진화에 실패했습니다.			진화의 성수 아이템 사용 실패
+STRING_INVEN_123	FF0000	레벨제한을 넘어서기 때문에 사용할 수 없습니다.			진화의 성수 아이템 사용 시 레벨제한을 넘어서는 경우
+STRING_INVEN_124	EEEEEE	NULL	Typo_FactoryB	12	GP 숫자 폰트 설정 (문자열 미사용)
+STRING_DUNGEON_1	72ff00	입장 대기시간 : {0}			입장 대기 시간 팝업 레이블
+STRING_DUNGEON_2	FFFFFF	몬스터 킬로 인한 드롭률 {0}% 증가			드랍율 증가 메시지
+STRING_DUNGEON_3	72ff00	입장			인던 생성 성공 팝업 레이블
+STRING_DUNGEON_4	FF0000	인던 생성 실패: 파티원 중에 인던의 최소 입장 레벨보다 낮은 캐릭터가 있습니다.			인던 생성 실패 메시지 - 파티원중 낮은 레벨
+STRING_DUNGEON_5	FF0000	인던 생성 실패: 파티원 중에 인던의 최대 입장 레벨보다 높은 캐릭터가 있습니다.			인던 생성 실패 메시지 - 파티원중 높은 레벨
+STRING_DUNGEON_6	FF0000	인던 생성 실패: 인던의 최소 입장 레벨보다 낮습니다.			인던 생성 실패 메시지 - 본인의 낮은 입장 레벨
+STRING_DUNGEON_7	FF0000	인던 생성 실패: 인던의 최대 입장 레벨보다 높습니다.			인던 생성 실패 메시지 - 본인의 높은 입장 레벨
+STRING_DUNGEON_8	FF0000	잠시후 다시 시도 해주세요.			일반 인던 생성 실패 메시지
+STRING_OPTION_1	FFFFFF	커뮤니티 (O)			커뮤니티 버튼 툴팁
+STRING_OPTION_2	FFFFFF	헨치정보 (H)			헨치 정보 버튼 툴팁
+STRING_OPTION_3	FFFFFF	헨치도감 (F12)			헨치 도감 버튼 툴팁
+STRING_OPTION_4	FFFFFF	인벤토리 (I)			인벤토리 버튼 툴팁
+STRING_OPTION_5	FFFFFF	도움말			도움말 버튼 툴팁
+STRING_OPTION_6	FFFFFF	시스템 설정			시스템 설정 버튼 툴팁
+STRING_OPTION_7	FFFFFF	퀘스트 정보 (Q)			퀘스트 버튼 툴팁
+STRING_OPTION_8	FFFFFF	스킬정보 (K)			스킬 버튼 툴팁
+STRING_OPTION_9	FFFFFF	캐시 상점			캐시 상점 버튼 툴팁
+STRING_OPTION_10	FFFFFF	캐릭터 정보 ( C )			밸러정보 버튼 툴팁
+STRING_OPTION_11	265A97	캐릭터 머리 위에 HP막대 표시하기		14	게임 옵션 - 체력 표시
+STRING_OPTION_12	265A97	주요 아이템 습득시 채팅창에 표시하기		14	게임 옵션 - 아이템 습득 표시
+STRING_OPTION_13	FFFFFF	닫기			옵션 패널 공용 닫기 버튼
+STRING_OPTION_14	FFFFFF	적용		16	옵션 패널 공용 적용 버튼
+STRING_OPTION_15	FFFFFF	초기화		16	옵션 패널 공용 초기화 버튼
+STRING_OPTION_16	265A97	낮음		12	옵션 패널 공용 스크롤바 낮음 레이블
+STRING_OPTION_17	265A97	높음		12	옵션 패널 공용 스크롤바 높음 레이블
+STRING_OPTION_18	FFFFFF	게임 설정		16	게임 옵션창 타이틀
+STRING_OPTION_19	265A97	내 이펙트만 보기		14	그래픽 옵션 - 내 이펙트만 보기
+STRING_OPTION_20	265A97	전체화면 모드		14	그래픽 옵션 - 전체화면
+STRING_OPTION_21	259CCE	그래픽품질		14	그래픽 옵션 - 그래픽 품질
+STRING_OPTION_22	FFFFFF	그래픽 설정		16	그래픽 옵션 - 타이틀
+STRING_OPTION_23	265A97	외곽선 표시		14	그래픽 옵션 - 외곽선 표시
+STRING_OPTION_24	FFFFFF	특정 옵션은 재시작 후에 적용됩니다.		14	그래픽 옵션 - 옵션 재시작 안내문
+STRING_OPTION_25	259CCE	해 상 도		14	그래픽 옵션 - 해상도
+STRING_OPTION_26	259CCE	그림자 품질		14	그래픽 옵션 - 그림자 품질
+STRING_OPTION_27	259CCE	텍스쳐 품질		14	그래픽 옵션 - 텍스쳐 품질
+STRING_OPTION_28	265A97	창모드		14	그래픽 옵션 - 창모드
+STRING_OPTION_29	259CCE	모든소리끄기		16	사운드 옵션 - 모든소리끄기
+STRING_OPTION_30	265A97	배경 음악		14	사운드 옵션 - 배경 음악
+STRING_OPTION_31	265A97	배경 음악 끄기		14	사운드 옵션 - 배경 음악 끄기
+STRING_OPTION_32	265A97	캐릭터 효과음		14	사운드 옵션 - 캐릭터 효과음
+STRING_OPTION_33	265A97	캐릭터 효과음 끄기		14	사운드 옵션 - 캐릭터 효과음 끄기
+STRING_OPTION_34	265A97	기타 효과음		14	사운드 옵션 - 기타 효과음
+STRING_OPTION_35	265A97	기타 효과음 끄기		14	사운드 옵션 - 기타 효과음 끄기
+STRING_OPTION_36	FFFFFF	사운드 설정		16	사운드 옵션 - 타이틀
+STRING_OPTION_37	265A97	환경 소리		14	사운드 옵션 - 환경 소리
+STRING_OPTION_38	265A97	환경 소리 끄기		14	사운드 옵션 - 환경 소리 끄기
+STRING_OPTION_39	FFFFFF	게임설정			옵션 메인 - 게임설정
+STRING_OPTION_40	FFFFFF	게임종료			옵션 메인 - 게임종료
+STRING_OPTION_41	FFFFFF	그래픽 설정			옵션 메인 - 그래픽 설정
+STRING_OPTION_42	FFFFFF	도움말			옵션 메인 - 도움말
+STRING_OPTION_43	FFFFFF	캐릭터 로비화면			옵션 메인 - 캐릭터 로비화면
+STRING_OPTION_44	FFFFFF	게임으로 돌아가기			옵션 메인 - 게임으로 돌아가기
+STRING_OPTION_45	FFFFFF	사운드 설정			옵션 메인 - 사운드 설정
+STRING_OPTION_46	FFFFFF	시스템 설정			옵션 메인 - 타이틀
+STRING_OPTION_47	FFFFFF	뒤로		16	옵션 패널 공용 뒤로 버튼
+STRING_BATTLE_1	FF0000	이동할 수 없는 상태입니다.			기절 등에 걸린 상태에서 이동 시도
+STRING_BATTLE_2	FF0000	헨치는 밸러와 너무 멀어질 수 없습니다.			헨치는 밸러와 너무 멀어질 수 없습니다.
+STRING_BATTLE_3	FFFFFF	[FF0000]코어드랍 없음[-]			드랍코어 없는 몬스터 툴팁 메시지
+STRING_BATTLE_4	FFFF00	{0}초 후에 부활합니다.			부활 대기 메시지(팝업)
+STRING_BATTLE_5	FFFFFF	{0}의 경험치가 <{1}>올랐습니다.			헨치 경험치 증가
+STRING_BATTLE_6	FF0000	{0}의 경험치가 <{1}> 하락 했습니다.			헨치 경험치 하락
+STRING_BATTLE_7	FFFF00	{0}의 경험치가 <{1}> 복구 되었습니다.			헨치 경험치 복구
+STRING_BATTLE_8	FF0000	밸러의 경험치가 <{0}> 하락 했습니다.			밸러 경험치 하락
+STRING_BATTLE_9	FFFF00	밸러의 경험치가 <{0}> 복구 되었습니다.			밸러 경험치 복구
+STRING_BATTLE_10	FFFFFF	밸러의 경험치가 <{0}>올랐습니다.			밸러 경험치 증가
+STRING_BATTLE_11	FFFFFF	축하합니다. 밸러가 <{0}>레벨이 되었습니다.			밸러 레벨 업
+STRING_BATTLE_12	FFFFFF	축하합니다. <{0}> 헨치가 <{1}>레벨이 되었습니다.			헨치 레벨 업
+STRING_BATTLE_13	FFFFFF	부활스크롤을 사용해서 부활 (보유개수: {0}개)		14	부활 팝업 아이템 사용 버튼
+STRING_BATTLE_14	FFFFFF	캐릭터가 사망했습니다. 제한시간 내에 부활방법을 선택해주세요. 부활스크롤이 있는 경우 부활스크롤을 사용하여 부활하면 경험치 페널티가 복구됩니다.		14	부활 팝업 부활 장소 이동 안내문
+STRING_BATTLE_15	259CCE	캐릭터부활		16	부활 팝업 패널 타이틀
+STRING_BATTLE_16	58BAFF	{0}님이 {1}(을)를 처치하였습니다.			몬스터 처치 전체 공지
+STRING_BATTLE_17	FFFFFF	가까운 부활위치에서 부활 (경험치 패널티 3%)		14	부활 팝업 일반 부활 버튼
+STRING_REFINE_1	FFFFFF	강화			강화 버튼 레이블(헨치/아이템 강화 둘 다 사용)
+STRING_REFINE_2	FFFFFF	강화를 시도 하시겠습니까?\n강화 실패 시 단계가 하락될 수 있습니다.			등급이 2이하인 헨치 강화시 메시지(팝업)
+STRING_REFINE_3	FFFFFF	강화를 시도 하시겠습니까?\n강화 실패 시 코어가 파괴될 수 있습니다.			등급이3이상인 헨치 강화시 메시지(팝업)
+STRING_REFINE_4	FFFFFF	강화할 헨치를 먼저 등록하세요.			헨치 강화창 메인 메시지
+STRING_REFINE_5	FFFFFF	해당 아이템은 헨치가 아닙니다.			헨치 강화창 메인 메시지
+STRING_REFINE_6	FFFFFF	해당 코어는 더 이상 강화가 불가능합니다.			헨치 강화창 메인 메시지
+STRING_REFINE_7	FFFFFF	[F0FF00]강화[-]할 코어를 등록하세요			헨치 강화창 메인 메시지
+STRING_REFINE_8	FFFFFF	강화비용이 부족하여 강화할수 없습니다.			강화비용 부족해서 아이템이나 헨치를 강화할 수 없는 경우
+STRING_REFINE_9	FFFFFF	강화 버튼을 누르면 강화가 시작됩니다.			아이템/헨치 강화 준비 메시지
+STRING_REFINE_10	FFFFFF	강화 재료 코어를 등록하세요.			헨치 강화창 메인 메시지
+STRING_REFINE_11	FFFFFF	코어 강화에\n[F0FF00]실패[-] 하였습니다.			헨치 강화 실패 메인 메시지
+STRING_REFINE_12	FFFFFF	코어가 파괴되었습니다.			헨치 강화 실패-코어 파괴
+STRING_REFINE_13	FFFFFF	단계 하락 방지와 파괴 방지로\n인하여 강화 단계가 하락하지\n않고 파괴되지 않았습니다.			헨치 강화 실패-단계 하락방지 아이템/파괴방지 아이템 사용
+STRING_REFINE_14	FFFFFF	파괴 방지로 인하여 코어가\n파괴되지 않았지만,\n강화 단계가 하락하였습니다.			헨치 강화 실패-파괴방지 아이템 사용/단계하락
+STRING_REFINE_15	FFFFFF	파괴 방지로 인하여 코어가\n파괴되지 않았습니다.			헨치 강화 실패-파괴방지 아이템 사용/단계유지
+STRING_REFINE_16	FFFFFF	{0} 단계 하락하였습니다.			헨치 강화 실패-단계 하락
+STRING_REFINE_17	FFFFFF	단계 하락 방지로 인하여 강화\n단계가 하락하지 않았습니다.			헨치 강화 실패-단계 하락방지 아이템 사용
+STRING_REFINE_18	FFFFFF	헨치 강화에\n[F0FF00]성공[-] 하였습니다.			헨치 강화 성공 메인 메시지
+STRING_REFINE_19	FFFFFF	1 단계 상승하였습니다			헨치 강화 성공 서브 메시지
+STRING_REFINE_20	FFFFFF	강화를 시도 하시겠습니까?\n강화 실패 시 강화단계가 하락될 수 있습니다.			5강 이하 아이템 강화 질문(팝업)
+STRING_REFINE_21	FFFFFF	강화를 시도 하시겠습니까?\n강화 실패 시 장비 아이템이 파괴될 수 있습니다.			6강 이상 아이템 강화 질문(팝업)
+STRING_REFINE_22	FEEABC	강화할 아이템을 먼저 등록하세요.			아이템 강화창 메인 메시지
+STRING_REFINE_23	FEEABC	해당 아이템은 강화가 불가능한 아이템 입니다.			아이템 강화창 메인 메시지
+STRING_REFINE_24	FEEABC	해당 아이템은 더이상 강화가 불가능합니다.			아이템 강화창 메인 메시지
+STRING_REFINE_25	FFFFFF	[F0FF00]강화[-]할 아이템을 등록하세요			아이템 강화창 메인 메시지
+STRING_REFINE_26	FFFFFF	강화 재료 아이템을 등록하세요.			아이템 강화창 메인 메시지
+STRING_REFINE_27	FFFFFF	아이템 강화에\n[F0FF00]실패[-] 하였습니다.			아이템 강화에 실패하였습니다.
+STRING_REFINE_28	FFFFFF	아이템이 파괴되었습니다.			아이템이 파괴되었습니다.
+STRING_REFINE_29	FFFFFF	단계 하락 방지와 파괴 방지로\n인하여 강화 단계가 하락하지\n않고 파괴되지 않았습니다.			아이템 강화 실패-단계 하락방지 아이템/파괴방지 아이템 사용
+STRING_REFINE_30	FFFFFF	파괴 방지로 인하여 아이템이\n파괴되지 않았지만,\n강화 단계가 하락하였습니다.			아이템 강화 실패-파괴방지 아이템 사용/단계하락
+STRING_REFINE_31	FFFFFF	파괴 방지로 인하여 아이템이\n파괴되지 않았습니다.			아이템 강화 실패-파괴방지 아이템 사용/단계유지
+STRING_REFINE_32	FFFFFF	{0} 단계 하락하였습니다.			아이템 강화 실패-단계 하락
+STRING_REFINE_33	FFFFFF	단계 하락 방지로 인하여 강화\n단계가 하락하지 않았습니다.			아이템 강화 실패-단계 하락방지 아이템 사용
+STRING_REFINE_34	FFFFFF	아이템 강화에\n[F0FF00]성공[-] 하였습니다.			아이템 강화 성공 메인 메시지
+STRING_REFINE_35	FFFFFF	1 단계 상승하였습니다			아이템 강화 성공 서브 메시지
+STRING_REFINE_36	FEEABC	헨치 강화중.....			헨치 강화 게이지 레이블
+STRING_REFINE_37	FEEABC	(선택사항) 강화용 아이템 추가			헨치 강화창 메시지 레이블
+STRING_REFINE_38	FEA183	강화할 헨치			강화할 헨치 슬롯 레이블
+STRING_REFINE_39	FEA183	강화재료			강화 재료 슬롯 레이블
+STRING_REFINE_40	FFFFFF	헨치 강화			헨치 강화 패널 타이틀
+STRING_REFINE_41	FEEABC	아이템 강화중.....			아이템 강화 게이지 레이블
+STRING_REFINE_42	FEEABC	(선택사항) 강화용 아이템 추가			아이템 강화창 메시지 레이블
+STRING_REFINE_43	FEA183	강화할아이템			강화할 아이템 슬롯 레이블
+STRING_REFINE_44	FEA183	강화재료			아이템 강화 재료 슬롯 레이블
+STRING_REFINE_45	FFFFFF	아이템 강화			아이템 강화 패널 타이틀
+STRING_REFINE_46	FEEABC	강화 성공률			강화 성공률 레이블
+STRING_REFINE_47	FEEABC	강화비용			강화비용 레이블
+     

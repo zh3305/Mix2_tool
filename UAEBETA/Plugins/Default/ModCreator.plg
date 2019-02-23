@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Mod Creator Plugin" author="Kyle Lane" version="1.1" date="3/36/14" mainlibrary="ModCreator.dll">
+	<description>
+		This plug in creates mods.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+	<PluginData name="Mod" type="0x00000000">
+	</PluginData>
+</Plugin>

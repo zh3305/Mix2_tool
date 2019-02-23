@@ -1,0 +1,82 @@
+((Mono.Cecil.FieldDefinition)a.Operand).FullName
+"System.String _BuffSct::szIconName"
+((Mono.Cecil.FieldDefinition)a.Operand).Name
+"szIconName"
+
+
+Init_BuffSct(string text) szTooltip  szBuffName
+	111	ldloc.s	-> (4)  (_BuffSct)
+	113	ldloc.3	
+	114	ldc.i4.3	
+	115	ldelem.ref	
+	116	call	System.String UintyEngineGUIPatch.TxtInjection::DoInjection(System.String)
+	121	stfld	System.String _BuffSct::szTooltip
+	126	ldloc.s	-> (4)  (_BuffSct)
+
+Init_NpcModel(string text) npcName	npc_printName dialogue
+Init_SkillTooltipSct(string text)   szSkillName    szTooltip 
+Init_StringTable(string text)  text 244
+Init_Table_Hench_Base(string szText) szName 93
+
+Init_NpcGroupName(string text) dic_NpcGroupName(py -2)
+	75	ldc.i4.1	
+	76	ldelem.ref	
+	77	call	System.String UintyEngineGUIPatch.TxtInjection::DoInjection(System.String)
+	82	stloc.s	-> (5)  (System.String)
+	84	ldarg.0	
+	80	ldfld	System.Collections.Generic.Dictionary`2<System.Int16,System.String> ClientTableMgr::dic_NpcGroupName
+
+Init_MapSct(string szText)  szMapName    list_MapText -1 list_Tip -1
+	155	ldloc.s	-> (4)  (_MapSct)
+	157	ldarg.0	
+	158	ldloc.3	
+	159	ldc.i4.6	
+	160	ldelem.ref	
+	161	call	System.String UintyEngineGUIPatch.TxtInjection::DoInjection(System.String)
+	166	call	System.Collections.Generic.List`1<System.String> ClientTableMgr::Get_MapSctList(System.String)
+	171	stfld	System.Collections.Generic.List`1<System.String> _MapSct::list_MapText
+	176	ldloc.s	-> (4)  (_MapSct)
+	
+Init_SkillBase(string text)   name 127
+Init_WarpMachine(string szText)   szMapName 120
+Init_Luridia_QuestSct(string text)  szQuestName 188 szNpcName 203  szStart_Dialogue 775 szEnd_dialogue szOnDialogue szQuest_Summary szGoal_1    szGoal_2  szGoal_3 
+
+Init_HenchBookSkill(string text)    szTooltip  130
+Init_MonsterModel(string text)    monsterName 
+Init_Dungeon(string text)  szMapName  101  szDungeonText 126    szPopUpMsg
+Init_ItemSct_Tab(string text)  szItemName 109  sct.szTooltip 137
+	114	stfld	System.String _ItemSct::szItemName
+	119	ldloc.s	-> (5)  (_ItemSct)
+	121	ldarg.0	
+	122	ldloc.s	-> (4)  (System.String[])
+	124	ldc.i4.2	
+	125	ldelem.ref	
+	126	call	System.String UintyEngineGUIPatch.TxtInjection::DoInjection(System.String)
+	131	ldc.i4.1	
+	132	newarr	System.Char
+	137	dup	
+	138	ldc.i4.0	
+	139	ldc.i4.s	59
+	141	stelem.i2	
+	142	call	System.String ClientTableMgr::GetSplitString(System.String,System.Char[])
+	147	stfld	System.String _ItemSct::szTooltip
+	
+Init_WorldmapIcon(string text)     szPrintName 109
+Init_HenchBook(string text)  szName 108 szHenchStory
+CreateMonster(SM_AREA_IN_MONSTER msg) monsterName
+
+
+//Init_DisplayParts(string text)
+//playernamefilter
+//prohibitedwords //禁止词语
+//Init_SkillMotionMappingHench(string text) 没有读取文字内容
+//Init_SkillMotionValor(string text)没有读取文字内容
+//Init_HenchAnimationList(string text)没有读取文字内容
+//Init_MonsterBase(string text)没有读取文字内容
+//Init_SkillMotionHench(string text) 没有读取文字内容
+//Init_UI_EventSound(string text) 没有读取文字内容
+//Init_SkillEffect(string text) 没有读取文字内容
+//Init_Sound_Effect_List(string text) 没有读取文字内容
+//Init_SkillMotionMappingMonster(string text) 没有读取文字内容
+//Skill_List_Hench 找不到
+//Skill_List_Valor 找不到

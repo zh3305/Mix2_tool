@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Game Object Plugin" author="Kyle Lane" version="1.0" date="2/15/14" mainlibrary="GameObject.dll">
+	<description>
+		This plug in imorts and exports Game Object files.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+	<PluginData name="Game Object" type="0x00000001">
+		<extension extension="uob" filter="Unity Game Object (*.uob)"/>
+	</PluginData>
+</Plugin>

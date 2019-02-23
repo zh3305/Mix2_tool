@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Hex Editor Plugin" author="Kyle Lane" version="1.1" date="3/26/14" mainlibrary="HexEditor.dll">
+	<description>
+		This plug in veiws files in hexidecimal.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+	<PluginData name="Hex" type="0x00000000">
+	</PluginData>
+</Plugin>

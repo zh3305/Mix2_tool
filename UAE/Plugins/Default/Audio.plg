@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Audio File Plugin" author="Kyle Lane" version="1.1" date="3/23/14" mainlibrary="Audio.dll">
+	<description>
+		This plug in imorts and exports basic audio files.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+	<PluginData name="Audio" type="0x00000053">
+		<extension extension="wav" filter="Wave Files (*.wav)"/>
+		<extension extension="ogg" filter="Ogg Vorbis Files (*.ogg)"/>
+		<extension extension="aiff" filter="Audio Interchange File Format (*.aiff)"/>
+		<extension extension="acc" filter="Advanced Audio Coding (*.acc)"/>
+		<extension extension="mp3" filter="MPEG (*.mp3)"/>
+		<extension extension="it" filter="Impulse Tracker (*.it)"/>
+		<extension extension="mod" filter="Module File Format (*.mod)"/>
+		<extension extension="s3m" filter="Scream Tracker (*.s3m)"/>
+		<extension extension="xm" filter="Extended Module File Format (*.xm)"/>
+		<extension extension="xma" filter="XBOX 360 Audio (*.xma)"/>
+		<extension extension="caf" filter="Audio Queue (*.caf)"/>
+		<extension extension="gcadpcm" filter="Game Cube/Wii Audio (*.gcadpcm)"/>
+	</PluginData>
+</Plugin>

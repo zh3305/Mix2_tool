@@ -1,0 +1,8 @@
+	public void Add_String(CHATTING_KIND kind, string szColor, string szData)
+
+	0	nop	
+	1	ldarga.s	-> (1) szColor (System.String)
+	3	ldarga.s	-> (2) szData (System.String)
+	5	call	System.Void FyLab.Class1::Add_String(CHATTING_KIND,System.String&,System.String&)
+	10	call	Storage_Data Storage_Data::get_Instance()
+	15	ldc.i4.1	

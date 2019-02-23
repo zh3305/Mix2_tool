@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modtemplate>
+	<template  name="default" directory="" verifyfile="" installer="default" />
+    <template  name="7 Days to Die" directory="Program Files (x86)\Steam\SteamApps\common\7 Days To Die" verifyfile="7DaysToDie.exe" installer="default" />
+	<template  name="The Dead Linger" directory="Program Files (x86)\Steam\SteamApps\common\The Dead Linger" verifyfile="TDL.exe" installer="default" />
+</modtemplate>

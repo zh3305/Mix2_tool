@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plugin name="Default Texture File Plugin" author="Kyle N. Lane" version="0.1" date="2/20/14" mainlibrary="Texture.dll">
+	<description>
+		This plug in imports and exports texture files.
+	</description>
+	<instructions>
+		Each texture displays info about it's size, number of mipmaps, and it's compression type.  When you save your modified DDS files you should match the original files format.
+	</instructions>
+	<PluginData name="Texture" type="0x0000001C">
+		<extension extension="dds" filter="Direct X Surface (*.dds)"/>
+	</PluginData>
+</Plugin>

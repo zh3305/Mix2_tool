@@ -1,0 +1,21 @@
+UintyEngineGUIPatch
+	Depends On
+UintyEngineGUIPatch.TxtInjection.DoInjection(String) : String
+	Depends On
+	Used By
+		UnityEngine.GUI.Box(Rect, String, GUIStyle) : Void
+		UnityEngine.GUI.Button(Rect, String, GUIStyle) : Boolean
+		UnityEngine.GUI.Label(Rect, String, GUIStyle) : Void
+
+
+	Offset	OpCode	Operand
+	0	nop	
+	1	ldarg.1	
+	2	call	System.String UintyEngineGUIPatch.TxtInjection::DoInjection(System.String)
+	7	starg.s	-> (1) text (System.String)
+	9	ldarg.0	
+	10	ldarg.1	
+	11	call	UnityEngine.GUIContent UnityEngine.GUIContent::Temp(System.String)
+	16	ldarg.2	
+	17	call	System.Void UnityEngine.GUI::Box(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)
+	22	ret	

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This section contains optional information that will be displayed on the Plug-ins Dialog.  It also contains the name of the main dll for your plugin.-->
+<Plugin name="Text File Plugin" author="Kyle N. Lane" version="0.1" date="2/20/14" mainlibrary="Text.dll">
+<!--These sections contain more extended information for the Plug-in Dialog-->
+	<description>
+		This plug in imorts and exports basic text files.
+	</description>
+	<instructions>
+		Plug it in and use it.
+	</instructions>
+<!--This section contains the type of resource the plug-in works with, the name to display for that resource type, and up to ten file extensions supported by your plug-in-->
+	<PluginData name="Text" type="0x00000031">
+<!--These are divided into the extension for the file, and the filter that will be shown in the Import/Xport Dialogs.-->
+		<extension extension="txt" filter="Text Files (*.txt)"/>
+		<extension extension="xml" filter="XML Files (*.xml)"/>
+	</PluginData>
+</Plugin>
